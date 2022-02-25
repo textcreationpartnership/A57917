@@ -1,0 +1,1266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The strengthening of strong-holds invented on several occasions and practised during the late wars, as well in the United Provinces, as in France, Germany, Italy, Dalmatia, Albania, and the neighbouring countries / by Henry Ruse ... ; translated out of the Low-Dutch-copy by His Majesties command.</title>
+            <title>Versterckte vesting. English</title>
+            <author>Ruse, Hendrik, 1624-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57917</idno>
+            <idno type="STC">Wing R2314</idno>
+            <idno type="STC">ESTC R17015</idno>
+            <idno type="EEBO-CITATION">13034451</idno>
+            <idno type="OCLC">ocm 13034451</idno>
+            <idno type="VID">96811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96811)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 399:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The strengthening of strong-holds invented on several occasions and practised during the late wars, as well in the United Provinces, as in France, Germany, Italy, Dalmatia, Albania, and the neighbouring countries / by Henry Ruse ... ; translated out of the Low-Dutch-copy by His Majesties command.</title>
+                  <title>Versterckte vesting. English</title>
+                  <author>Ruse, Hendrik, 1624-1679.</author>
+               </titleStmt>
+               <extent>[8], 53 p., [1] folded leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>In the Savoy :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Versterckte vesting.</note>
+                  <note>Engraved t.p.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fortification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96811:1" rendition="simple:additions"/>
+            <pb facs="tcp:96811:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>workers constructing fortifications</figDesc>
+               <signed>HR <hi>e f</hi>
+               </signed>
+            </figure>
+            <p>THE STRENGTHENING of STRONG-HOLDS: INVENTED On ſeveral Occaſions, and practiſed during the late WARS, as well in the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> as in <hi>France, Germany, Italy, Dal<g ref="char:EOLhyphen"/>matia, Albania,</hi> and the Neighbouring Countries.</p>
+            <p>By HENRY RUSE, Engineer, and Captain of a Foot-Company belonging to the City of AMSTERDAM.</p>
+            <p>
+               <hi>Tranſlated out of the Low-Dutch-Copy, by His Majesties Command.</hi>
+            </p>
+            <p>In the <hi>Savoy,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1668.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96811:2" rendition="simple:additions"/>
+            <pb facs="tcp:96811:2"/>
+            <div type="dedicatory_lists">
+               <p>
+                  <table>
+                     <head>To the Honourable, <hi>&amp;c.</hi>
+                     </head>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>D<hi rend="sup">r</hi> FRANCIS BANNING KOCK, Knight of the Order of S. Michel, Lord of <hi>Purmerlandt,</hi> and <hi>Ilpendam,</hi> &amp;c.</item>
+                              <item>CORNELIUS BICKER, Lord of SWIETEN, <hi>&amp;c.</hi>
+                              </item>
+                              <item>JOHN HUYDEKOOPER, Knight, Lord of <hi>Maerſeveen,</hi> &amp;c.</item>
+                              <item>D<hi rend="sup">r</hi> NICHOLAS TULP:</item>
+                           </list>
+                        </cell>
+                        <cell>RULING BURGAMASTERS Of the City of AMSTERDAM.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>AS ALSO To the Honourable LORDS,</head>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>CORNELIUS DE GRAFF, LORD of <hi>Zuydt-Polsbroeck,</hi> &amp;c.</item>
+                              <item>NICHOLAS CORVER,</item>
+                           </list>
+                        </cell>
+                        <cell>Treaſurers and old Burgamaſters of the ſaid City.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>AND</head>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>ANTHONY OETGENS VAN WAVEREN Knight, Lord of <hi>Waveren,</hi> &amp;c.</item>
+                              <pb facs="tcp:96811:3"/>
+                              <item>D<hi rend="sup">r</hi> GERARD SCHAEP, Lord of Koerte-hoef, <hi>&amp;c.</hi>
+                              </item>
+                              <item>D<hi rend="sup">r</hi> CORNELIUS WITSEN,</item>
+                              <item>JOHN VAN DE POLL,</item>
+                           </list>
+                        </cell>
+                        <cell>Old Burgamaſters.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="dedicatory_letter">
+               <opener>
+                  <salute>MY LORDS,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>F this little Treatiſe which I humbly preſent to your Lordſhips, may be favoura<g ref="char:EOLhyphen"/>bly accepted as a pledge of my grateful Acknowledge<g ref="char:EOLhyphen"/>ments, and may beget in your Lordſhips a firm belief that my real intentions are to employ my beſt endeavours in the diſcharge of that Truſt your Lordſhips have repoſed in me, I have obtained the utmoſt of my deſires; beſeeching your Lordſhips to conſider more the matter therein contained (which the greateſt and wiſeſt of men in all ages have eſteemed as one of the moſt no<g ref="char:EOLhyphen"/>ble Sciences, and the moſt neceſſary for the ſet<g ref="char:EOLhyphen"/>tlement and preſervation of a flouriſhing Com<g ref="char:EOLhyphen"/>monwealth) then the rough and unpoliſhed ſtile of the Writer, remembring that Souldiers and perſons of my profeſſion (as your Lord<g ref="char:EOLhyphen"/>ſhips very well know) ought much rather to ponder their Actions, then to ſtudy the need<g ref="char:EOLhyphen"/>leſs ornament of Words; as likewiſe to reſt aſ<g ref="char:EOLhyphen"/>ſured, that the continuation of your Lordſhips
+<pb facs="tcp:96811:3"/>affection towards me, will not onely encourage me to a ſtedfaſt and unwearied perſeverance in my zeal for your Service, but likewiſe to proceed to ſome other undertakings of the like nature, for the good and benefit of your City, and of the whole Commonwealth. And ſo I remain,</p>
+               <closer>
+                  <salute>My Honourable, <hi>&amp;c.</hi> 
+                  </salute> 
+                  <signed>Your Lordſhips moſt devoted Servant, <hi>H. RUSE.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:96811:4"/>
+            <head>THE AUTHOR TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the year of our Lord <hi>1639.</hi> (being the Fif<g ref="char:EOLhyphen"/>teenth of my age) having a great inclination to the Wars, and my Genius leading me principal<g ref="char:EOLhyphen"/>ly to the ſtudies of Fortification, Artillery, Fire-works, Mines, and the like; I was first of all entertained in the ſervice of the States, where I continued about four years; during which time I obſerved with great dili<g ref="char:EOLhyphen"/>gence the Manners and Cuſtoms uſed in theſe Countries, as well in the buſineſs of Encamping and Retrenching, as in Erecting their Fortifications. But hearing very much of the <hi>French</hi> and other Nations, for their marvellous Addreſs and Dexterity in all Warlike Affairs, I was extreamly deſirous to be better acquainted with their ways, as promiſing my ſelf to ſee wonders done by them: Wherefore I went with a Regiment of <hi>Walloons</hi> from <hi>Maſtricht</hi> to <hi>France,</hi> in quality of a Lieutenant; which Regi<g ref="char:EOLhyphen"/>ment was joyned to the Army of the Duke d'<hi>Enguin</hi> (who was then General of the <hi>French</hi>) and ſo they kept together till the Battel of <hi>Frybourg</hi> in <hi>Briſgow, 1644.</hi> where the ſaid Regiment was wholly routed, and I with many other miſerable Wretches ſhared together in our Misfortune; however with that Army we reduced the <hi>Palatinat</hi> by the <hi>Rhyne, Frankendal</hi> onely excepted. Being ſince returned into <hi>France,</hi> I had the advantage of ſeeing there many places well Fortified, as alſo in <hi>Burgundy, Lorraine,</hi> and <hi>Germany,</hi> and did examine very curiouſly their Principles of War, together with the various Methods of Fortifying, attac<g ref="char:EOLhyphen"/>quing, defending, and embattailing their Armies, which often hap<g ref="char:EOLhyphen"/>pened between the <hi>French</hi> and <hi>Germane,</hi> againſt the <hi>Imperial<g ref="char:EOLhyphen"/>iſts</hi> and <hi>Bavarians,</hi> to which we were not altogether ſtrangers. Thus having ſeen whatever I thought neceſſary in thoſe Coun<g ref="char:EOLhyphen"/>tries, I aſsiſted at the Battel of <hi>Nortlingen,</hi> in and near the Village of <hi>Alderheym 1645.</hi> where the Duke d' <hi>Enguin</hi> was Ge<g ref="char:EOLhyphen"/>neral of the <hi>French,</hi> V. C. <hi>Tureyn</hi> of the <hi>Waymarians,</hi> and <hi>Merci</hi> of the <hi>Bavarians,</hi> which laſt was ſlain in the Fight. After this, having aſsiſted in the Battel of <hi>Herbrauſen</hi> near <hi>Mariedal,</hi>
+               <pb facs="tcp:96811:4"/>I reſolved to ſeek my fortune in ſome other Countrey, to ſee what was there to be done, the <hi>French</hi> and <hi>German</hi> Cuſtoms and War<g ref="char:EOLhyphen"/>like practices being ſufficiently known to me already. Conſequently in the year <hi>1646.</hi> hearing that the <hi>Turks</hi> had invaded <hi>Candia,</hi> and declared War againſt the <hi>Venetians,</hi> I had great inclinations to follow that War, (beſides the curioſity I had to ſee thoſe Coun<g ref="char:EOLhyphen"/>tries) as being againſt the moſt inveterate and irreconcileable enemy of Chriſtendom. Whereupon <hi>I</hi> left the <hi>German</hi> Camp (for I was then come from the <hi>French</hi> to the <hi>Waymarians</hi>) where I had ſerved for the ſpace of three years, in divers em<g ref="char:EOLhyphen"/>ployments, and endured many hard and tedious Marches, hazarded my ſelf often in bloudy Battels and famous Rencounters, with the loſs of moſt of my Comrades and fellow-Souldiers, who were either ſlain in fight, or otherwiſe lost their lives in the Service. From thence I firſt ſteered my courſe to <hi>Helvetia,</hi> and being arrived at <hi>Zurich,</hi> I met with the <hi>Venetian</hi> Ambaſſadour, and other <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Officers, with whom I made an agreement to levy <hi>German</hi> Souldiers, and to lead them over the Alps into <hi>Italy</hi> (<hi>Bergamo</hi> in <hi>Lombardy</hi> being the place appointed for our Rendezvouz) where having been a while, and obſerved the moſt eminent Fortifications on the Continent, we got Letters to go to <hi>Venice,</hi> from whence ſome of us were ſent for <hi>Candia,</hi> others for <hi>Corfu,</hi> and I with ſome <hi>German</hi> Forces for <hi>Dalmatia,</hi> which was already invaded and ta<g ref="char:EOLhyphen"/>ken by the <hi>Turks</hi> of <hi>Boſna, Macedonia,</hi> and the <hi>Grecians,</hi> who made great preparations to aſſault the Strong-Holds in thoſe parts. Here, by the intreaty of <hi>Foſcolo</hi> the <hi>Venetian</hi> Ambaſſador, I took upon me the employment of Engineer, and had many ſtrange Adventures, too numerous to be here recited. About five years after, <hi>Lunardo Foſcolo,</hi> then General in <hi>Dalmatia,</hi> was choſen General<g ref="char:EOLhyphen"/>iſsimo in <hi>Candia,</hi> who deſired me to accompany him thither. But when we came to <hi>Venice,</hi> his journey was retarded, and I employed my time in curing ſome Diſtempers I had gotten in the Wars, in the <hi>Paduan</hi> Baths; and afterwards returned to <hi>Venice,</hi> where I found the General, having got leave from the Senate, reſolved to continue that ſummer at <hi>Venice.</hi> Whereupon being deſirous to viſit my friends and relations in my native Countrey, I took my leave, and went for <hi>Germany,</hi> and by the way had an opportunity of ſeeing ſome Fortifications of the Duke of <hi>Bavaria,</hi> and ſome others, which before I might not, becauſe I ſerved their enemies. Being in the Low-Countreys, I had an opportunity of offering my ſervice to my Lords the Burgamaſters of <hi>Amſterdam,</hi> in whoſe ſervice I am at preſent employed, and hope, as occaſion ſhall offer, I ſhall be able ſo
+<pb facs="tcp:96811:5"/>to improve my talent, as to bring to light that which may be for the advantage of this great City, and the whole Countrey. In the mean time I ſhall begin with this ſmall Treatiſe, the Subject whereof is the doctrine of Fortifications; not that I intend to diſcourſe of the firſt Rudiments, but onely to manifest unto thoſe who understand this Science, the weakneſs of Modern Fortifications, and how the defects may be ſupplied, and the Works made incomparably ſtrong<g ref="char:EOLhyphen"/>er, as well the Royal Fortreſſes, as the Outworks, and all this with as ſmall coſt as ordinarily other Works are erected. Which expedients are no Chimeras or idle Fancies, but ſuch as have been ſufficiently diſputed of and throughly examined. For I have made it my bu<g ref="char:EOLhyphen"/>ſineſs to obſerve very ſtrictly the proper function of each distinct part of a Fortification, and that not in a Cloſet, but abroad, and in the Field, together with the manifold ways of improving them; and have diſcourſed and debated the ſame with the most excellent Engineers of this our age. I do not mean with ſuch who attacque Cities by a fire-ſide or in a chimney-corner, but with ſuch who have been trained up among the Canons and Muskets: nor do I mean with our ordinary Mathematicians, who think that Wars, and all affairs of this world ought to be regulated unchangeably after their rules. Neither do I hereby in any wiſe deſpiſe or undervalue Mathematical Learning; for on the contrary, I lay that for my foundation and groundwork, having for my own particular ſtudied it with great affection and delight. But becauſe I have found by experience, that the Principles of War are not always limited to Mathematical Rules, therefore I do not begin this Treatiſe with Demonſtrations, but declare my opinion to the lovers of this kind of learning as plainly and as briefly as I can; not thinking it neceſſary to ſhew how to erect a Fortification, but onely to point at ſome ge<g ref="char:EOLhyphen"/>neral Amendments, which will, I doubt not, be very grateful to all ingenious Students. And in caſe there be any thing found which they cannot approve of, they will highly oblige me whenever they pleaſe to declare the ſame, and to propound expedients for the re<g ref="char:EOLhyphen"/>forming of whatever is amiſs. But for aſmuch as I do not doubt but that this little Treatiſe will find acceptance, I ſhall God willing com<g ref="char:EOLhyphen"/>municate unto the world my particular reflections and obſervati<g ref="char:EOLhyphen"/>ons, for Attacquing, Defending, Artillery, Mines, Counter-Mines, with all other things relating thereto, as likewiſe for the or<g ref="char:EOLhyphen"/>dering and forming of Battels; all which have been found to be pra<g ref="char:EOLhyphen"/>cticable, and of great uſe in the late Wars.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96811:5"/>
+            <head>THE STRENGTHENING OF STRONG-HOLDS: INVENTED On ſeveral Occaſions, and practiſed in the late Wars, as well in <hi>Holland,</hi> as in <hi>France, Germany, Italy, Dalmatia, Albania,</hi> And the Neighbouring Countreys; BY <hi>HENRY R<g ref="char:V">Ʋ</g>SE.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">A</seg>Fter I had throughly conſidered the beſt Methods of Fortification practiſed in the Countries before mentioned, I found that none of them had made bet<g ref="char:EOLhyphen"/>ter uſe of Situations (as to the Artifici<g ref="char:EOLhyphen"/>al part) then the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces.</hi> Foraſmuch as they have not onely very well deſigned and contrived their For<g ref="char:EOLhyphen"/>treſſes, but have alſo placed them ſo advantagiouſly, that by the overflowing of Waters (which they can by the opening of Slu<g ref="char:EOLhyphen"/>ces let in or out as they pleaſe) they have rendred the greateſt part of the Works impregnable. I do not ſay but that in other Countries are alſo found very ſufficient Fortreſſes, and well contrived; but there hath been a neceſſity in theſe Provinces (where they have had to deal with ſo potent an Enemy) to uſe greater caution and circumſpection then elſewhere, and to make choice of the beſt Fortifications, and yet with no great charge, being made of Earth onely, which of all Materials I hold to be the beſt for this purpoſe; whereas in other Coun<g ref="char:EOLhyphen"/>treys, eſpecially in <hi>Italy,</hi> they are of opinion, that the outſides of their Works ought to be altogether of Stone, and afterwards cut or pared, which cannot be done without exceſſive charge. And yet notwithſtanding all their endeavours, they have not been able ſo to contrive their Strong-Holds, but that the beſt of them, if acceſſible, are taken in a ſhort time, being hardly te<g ref="char:EOLhyphen"/>nable for three Moneths, to the aſtoniſhment of the World, as examples do abundantly teſtifie. This hath been the cauſe why
+<pb n="2" facs="tcp:96811:6"/>many Military Architects have tryed all ways and means to ſupply thoſe Defects, of which I have ſeen many Conceits, but in my judgement altogether impracticable; which has encou<g ref="char:EOLhyphen"/>raged me to improve my own Obſervations in all Occurrences, and earneſtly to mind each part of the Fortification, of what uſe it might be, and whether it were able to perform that, for which it was ordained and intended. And having diſcovered very many Errors, eſpecially in the Modern Flanques and Out<g ref="char:EOLhyphen"/>works, I did debate my Obſervations very particulary with many Engineers of the greateſt Practice and Renown; but ne<g ref="char:EOLhyphen"/>ver met with any whoſe judgement I ſo well approved, as that of a certain noble <hi>Italian,</hi> who having had ſeveral Employments, as well in <hi>Germany</hi> and the <hi>Low-Countreys,</hi> as likewiſe in the <hi>French</hi> Warrs, had carefully improved all opportunities and advantages of gaining Knowledge and Experience. With this Gentleman I therefore made a particular Acquaintance and Friendſhip, and we did mutually communicate and compare together our Obſervations, till ſuch time as we had found out, and agreed upon ſuch a Method, as ſeemed to us to be of all other the ſafeſt, and yet practicable with the leaſt expence; according to which Method, almoſt all conſiderable Fortifications might without difficulty be redreſſed. The truth is, this Method is ſomething near that which ſhall hereafter be diſcourſed of: For having look'd yet more narrowly into this matter, and examin'd it with greater diligence and curioſity, I did onely (as I found cauſe) alter ſomething of that our firſt deſign. I do not here undertake to make Acceſſible places impregnable, ſince all that is made by man, may by man be again deſtroyed; for the At<g ref="char:EOLhyphen"/>tacques being carryed on upon a ſure foot, and the Approaches being managed with skill and judgement, if in the mean time no relief come, even the ſtrongeſt places muſt at length yield up to the Beſiegers. My intention is onely ſo to contrive Works, that they may reſiſt much longer then ordinarily they do, that ſo the Beſiegers may be waſted and conſumed, either by ill wea<g ref="char:EOLhyphen"/>ther or ſome other accidents. (For by lengthening of time, op<g ref="char:EOLhyphen"/>portunity is given to the Beſieged to get relief; or in the mean while to Attaque ſome other places in the Enemies cuſtody, and ſo to make him quit his deſign;) which will be a ſufficient re<g ref="char:EOLhyphen"/>compence for the pains and charge, which I conceive to be but little more then ordinary, in caſe the Work be managed by an experienced Artiſt, as will ſufficiently appear by what hereafter
+<pb n="3" facs="tcp:96811:6"/>follows. In the mean time I ſhall propound ſome general Rules or Principles of Fortifications, approved and owned by many skilful Captains and Engineers.</p>
+               <list>
+                  <head>The Maxims or general Rules which are obſer<g ref="char:EOLhyphen"/>ved in the Modern Fortifications.</head>
+                  <item>1. There ought to be no point of the whole Fortification undiſcovered or unflanqued, and that from ſeveral places of Defence.</item>
+                  <item>2. The Lines defending ought to be longer then the Lines defended, or at leaſt as long.</item>
+                  <item>3. A Regular Fortification is very much ſtronger then an Ir<g ref="char:EOLhyphen"/>regular.</item>
+                  <item>4. The more Baſtions a Regular place hath, the greater is its Strength and Defence.</item>
+                  <item>5. A Fortreſs ought to command all places whatſoever round about.</item>
+                  <item>6. Thoſe parts of a Fortreſs which are neareſt to the Center, ought to command thoſe that are more remote.</item>
+                  <item>7. Thoſe parts of a Fortification which are at greateſt diſtance from the Center, ought always to be Commanded by thoſ e that are neareſt the Center.</item>
+                  <item>8. The Line of Defence <hi>Fichante,</hi> ought not to be much longer then 60 Rods, that being the diſtance ordinarily allowed for the Port of a Musket.</item>
+                  <item>9. The larger the Flanques and Gorges are, the better and ſtronger they are, provided the other parts are not prejudiced thereby.</item>
+                  <item>10. Of ſecond Flanques, and Courtine-Flanques, the larger is the better, in caſe it cauſe no diſproportion in the other parts of the Fortification.</item>
+                  <item>11. As for the <hi>Linea Stringens,</hi> (or Line of Defence <hi>Secant,</hi> which is continued from the Face to the Courtine) the ſhorter it is, the better, if the Flanques be not too much leſſened by it.</item>
+                  <item>12. That opening of the Angle of a Baſtion is the beſt, which gives a right length to the Flanque, ſecond Flanque, and Gorge.</item>
+                  <item>13. The Angle of a Baſtion ought not to be leſs then 60 degrees, nor greater then a Right Angle, or 90 degrees.</item>
+                  <pb n="4" facs="tcp:96811:7"/>
+                  <item>14. The Angle of the Poligone ought not to be leſs then 90 degrees.</item>
+                  <item>15. The Angle of the Face and Flanque ought to be at leaſt 150 degrees.</item>
+                  <item>16. The Angle of the Courtine and Flanque ought to be evermore 90 degrees, or a Right Angle.</item>
+                  <item>17. The outward Angle of Defence (or <hi>Angle Flanquant</hi>) cannot well be too Acute.</item>
+                  <item>18. The inward Angle of Defence ought not to be leſs then 25 degrees.</item>
+                  <item>19. The proportion between the Courtine and the Face ought to be as 3 to 2, or as 36 to 24.</item>
+                  <item>20. The Faces ſhould never be longer then the Courtine, nor ſhorter then one half of the Courtine.</item>
+               </list>
+               <p>Theſe are the Maxims and Rules for the ſtructure of moſt of the Modern Fortifications, which I hold to be exceeding good and neceſſary, all but the 16th, which ſays, That the Angle of the Flanque and Courtine muſt always be a Right Angle. As for the reaſon of that Poſition, we ſhall ſee more hereafter. For I do aſſert the contrary, and ſay, That it ought always to exceed 90 degrees: which Angle is the onely thing that makes the difference in the form of my Ground-Lines from thoſe now in uſe; beſides that, I take greater Parts, and other Profiles. The truth is, the Flanques are the moſt conſiderable parts of a Fortification, and thoſe wherein lies its chiefeſt Strength, and therefore the Structure of thoſe is of ſo much the greater conſequence. But now the reaſons of thoſe who would have the Flanque evermore perpendicular to the Courtine, are theſe that follow, <hi>viz.</hi>
+               </p>
+               <p>Becauſe all Shots coming from thence flie parallel to the Courtine; and that by night all parts of the Courtine may be better defended; and that when it is very dark, the Souldiers holding their Muſquets in a right Angle to their Breaſts, muſt needs hinder the Enemy from approaching the Courtine, as may be ſeen in <hi>Fig.</hi> 1.</p>
+               <p>Theſe reaſons being well ſcann'd and examin'd, appear ſo weak, that they are ſcarce worth the anſwering; nevertheleſs I ſhall briefly refute them. The firſt reaſon is, becauſe the Shots flie all parallel with the Courtine: whereupon I ſay, whether the Flanque be perpendicular to the Courtine or no, the Shots may for all that flie parallel with the Courtine; for
+<pb n="5" facs="tcp:96811:7"/>the Souldiers know not how to make a Right Angle in ſetting their Muſquets. I do alſo affirm, That onely one Muſqueteer can with one Shot clear the whole Courtine at once, and all the reſt muſt incline to it; for if they do flie parallel, then thoſe who give the Aſſaults muſt have Wings likewiſe, that ſo they may be ſhot in the Air, in caſe thoſe within are to defend the up<g ref="char:EOLhyphen"/>per part of the Wall, or elſe the Shots muſt flie onely the height of four or five foot above the Horizon (as out of the Fauſſe<g ref="char:EOLhyphen"/>bray) that ſo they may keep parallel to the Horizon; where<g ref="char:EOLhyphen"/>as contrariwiſe, the Flanques in theſe Fortifications are eighteen or twenty foot high, and all Shots go downwards, and there<g ref="char:EOLhyphen"/>fore hit the Horizon in one place onely. The principal duty of a Muſqueteer is, that by night-time he turn himſelf with his Muſquet towards the place where he heareth a noiſe, or ſeeth fire, or ſomething elſe; to which neither the Perpendicularity nor the Obliquity of Flanques can give any advantage, or become the leaſt hindrance. And theſe parallel-ſhots are onely Imagi<g ref="char:EOLhyphen"/>nary, found out upon the Ground-Lines, which in the Profile come far otherwiſe, as <hi>Fig.</hi> 1. <hi>Num.</hi> 1. ſheweth. The Muſquet<g ref="char:EOLhyphen"/>teer <hi>A</hi> ſtanding upon the Flanque, which is Perpendicular to the Courtine, cleareth the upper part of it: in caſe the Muſ<g ref="char:EOLhyphen"/>quetteer <hi>B</hi> do the ſame, and Shooteth parallel with <hi>A;</hi> but then his Bullet flieth ſo far from the Wall, as he himſelf ſtandeth off from his fellow; and ſo likewiſe all the reſt that ſtand along in the ſame Line. Whence it followeth, That thoſe who aſſault, muſt be upon the Wing, or in the Ayr, or elſe are not to be hit by theſe parallel-ſhots: but let the others without the Point <hi>A,</hi> as <hi>C, D,</hi> &amp;c. not Shoot paral<g ref="char:EOLhyphen"/>lel with <hi>A,</hi> then their Shots cannot hit either the Courtine or Moat, or Bridge, but in one place onely; which in an Oblique Flanque of an equal height, will be the ſame. Now as for my flanques, I order them after another Method, and therefore they are of far greater Advantage then the former, or any other that were ever yet in uſe, which any Artiſt may eaſily conceive, when he vieweth onely the Fi<g ref="char:EOLhyphen"/>gure, although no Explanation or Animadverſion were made upon it, in caſe he will but declare his judgement without partiality, according to right reaſon, and the practice of War.</p>
+               <p>The Flanques or Defending-Lines are the chiefeſt part of the Fortification, and ought therefore to be conſidered in the firſt
+<pb n="6" facs="tcp:96811:8"/>place. They have been altered ſeveral times already, but never with any advantage comparable to what is obtained by theſe; which advantage is diſtributed and has an influence upon all the parts of the Fortification. The Flanques with Caſematts are odious in the United Provinces, becauſe their <hi>Orillons</hi> could not ſtand, unleſs they were Walled up with Stone, which is too charge<g ref="char:EOLhyphen"/>able; as likewiſe by their Cutting and Retiring of the Flanques mounted with Canon, the entrance of the Bulworks came to be too little, which in my Work is otherwiſe. Thoſe who view my Bulworks, and do not underſtand the Profiles. may alſo imagine, that they are made with Caſematts; but it is very far from that, and there is ſomething elſe in it, which hereafter ſhall be ſufficiently declared and explained: onely let no man flatter himſelf with an opinion, that foraſmuch as ſo many brave Captains and Engineers have employed the beſt of their underſtandings and endeavours to arrive at the utmoſt perfection of this Art of Fortification, it cannot be, but that they have attained unto it: Whereas in the late Wars it hath been obſerved, and is daily ſeen, that the beſt Fortreſ<g ref="char:EOLhyphen"/>ſes, made after the manner aforeſaid, can ſcarce reſiſt ſo much as two Moneths; and it is altogether needleſs to produce Ex<g ref="char:EOLhyphen"/>amples of that which ſo many Hiſtories do atteſt.</p>
+               <p>Beſides all this, we are to know, that the braveſt Captains and Engineers of this Age knew very well the imperfection of the Modern Flanques, and therefore they have made it their buſineſs to think of it, and the truth is, many have con<g ref="char:EOLhyphen"/>ferred with me about it; but I did not find the Inventions propounded by them, practicable in all places: and in this Countrey it hath not been minded, becauſe the <hi>Spaniſh</hi> did ſeldom or never Attacque any place of conſequence with an induſtrious force; but being Beſieged in any of their own places, did eaſily Surrender it, without troubling themſelves much with the knowledge of Engineerſhip. But I ſhall leave this Subject, and come to my purpoſe, which is not to teach the Grounds or firſt Rudiments of Fortification, but onely to Inſtruct the Ingenious Lovers of that Art, how to reform thoſe errors which in theſe late furious and induſtrious Wars have been rightly diſcovered in the Modern Fortifications. I ſtile them furious and induſtrious, becauſe no Hiſtory gives a relation of any War that was carried on with greater fury, or of any Cities that were taken with greater induſtry.</p>
+               <pb n="7" facs="tcp:96811:8"/>
+               <p>In the ſequel of this Diſcourſe, I ſhall manifeſt the Er<g ref="char:EOLhyphen"/>rours of Modern Fortification, and in order thereunto, I ſhall begin firſt from the Ground-Lines, and propound a part of a Regular Fortreſs of Eleven Bulworks, according to the practice of <hi>Fryday</hi> and other Modern Mathematicians, whoſe Method I eſteem to be much better then thoſe of former Ages. But before I proceed, the Enemies of Strong-Holds ought in the firſt place to be known, which are Sappes, Spades, Pikes, Canon, Mines, and Muſquets, managed by Souldiers, and Commanded by skilfull Captains and Engi<g ref="char:EOLhyphen"/>neers: And foraſmuch as the very ſame things are to be made uſe of for Defence, it is neceſſary that the Fortreſſes, to the end they may be convenient for uſe, ſhould be pre<g ref="char:EOLhyphen"/>pared for it long before. Now this cannot be practiſed in ſmall Works, where after the ſpringing of one Mine, all is loſt. It is alſo neceſſary, that the Works ſhould out<g ref="char:EOLhyphen"/>wardly be defended, as well with Canon as with Muſquets, by a greater number of men, and from more places of De<g ref="char:EOLhyphen"/>fence, then can be done by the Enemy conveniently in his Attacques; And herein conſiſteth the vertue of a Fortification: For if the Enemy do find place to make a Battery of ſix or eight Pieces, to break the Flanques; we ought to have a commodious place to plant Twenty eight or Thirty pieces in Contra-Battery, which will ſoon ruine the Enemies Bat<g ref="char:EOLhyphen"/>tery, being greater in number, and ſtanding already in ad<g ref="char:EOLhyphen"/>vantagious places; whereas the Enemy muſt firſt raiſe his Battery under the danger of thoſe Canon-ſhots. All which being premiſed and well conſidered, let us now inquire whe<g ref="char:EOLhyphen"/>ther our Modern Fortreſſes have this conveniency; and if not, where the difference lies. For example, ſee <hi>Fig.</hi> 2. <hi>Num.</hi> 2. which is part of a Work of eleven Baſtions, and For<g ref="char:EOLhyphen"/>tified after the beſt Modern Method and Practice, (being <hi>Fryday</hi>'s ſecond Way) and according to the meaſure of theſe following Lines.</p>
+               <pb n="8" facs="tcp:96811:9"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>A B</hi>
+                        </cell>
+                        <cell>Polygone exterior</cell>
+                        <cell>78.13 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>F <hi>G</hi>
+                        </cell>
+                        <cell>Polygone interior</cell>
+                        <cell>64.93 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>F E</hi>
+                        </cell>
+                        <cell>Demy-Gorge</cell>
+                        <cell>14.19 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A G</hi>
+                        </cell>
+                        <cell>Capital-Line</cell>
+                        <cell>24.40 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A C</hi>
+                        </cell>
+                        <cell>Face</cell>
+                        <cell>24.00 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>C D</hi>
+                        </cell>
+                        <cell>Flanque</cell>
+                        <cell>11.91 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>D E</hi>
+                        </cell>
+                        <cell>Courtine</cell>
+                        <cell>36.00 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A E</hi>
+                        </cell>
+                        <cell>Line of Defence <hi>Fichante</hi>
+                        </cell>
+                        <cell>61.68 Long.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A H</hi>
+                        </cell>
+                        <cell>Line of Defence <hi>Secant</hi>
+                        </cell>
+                        <cell>48.85 Long.</cell>
+                     </row>
+                  </table>
+               </p>
+               <figure>
+                  <figDesc>schematics of fortification</figDesc>
+                  <head>Num. II</head>
+                  <p>Maete van. 110 Rÿnlanse Roden voor beÿde dese Figuren</p>
+               </figure>
+               <p>The Modern Engineers refer themſelves much to the ſtrength of their Out-works, whereof ſome nevertheleſs are very Mur<g ref="char:EOLhyphen"/>thering-Holes, more troubleſome then uſeful; as I ſhall prove in due time: but for the preſent ſhall onely ſhew, how the faults of Modern Fortifications may be Rectified according to my Method.</p>
+               <p>It is notorious to every one, who underſtands Fortifications, according to the Maxims above-mentioned, that the longer the Defending Lines are, the better they are; and that according to <hi>Axiome</hi> 9. the longer Flanques and Gorges, are much the
+<pb n="10" facs="tcp:96811:12"/>ſtronger; always provided, they may be made without preju<g ref="char:EOLhyphen"/>dice to other parts, or that they be weakened thereby: As alſo, that the great Bulworks are better then the little ones, becauſe Retrenchments and Counter-mines may be made within them; and becauſe more Pieces of Canon and Muſqueteers may be placed there, for the defence of the next Bulwork; and becauſe it is fitter for all other Warlike actions. It is alſo notorious, that the longeſt Polygones and Regular Fortreſſes contain moſt room, and therefore ought to be preferred before the ſhorter, in caſe the Lines of Defence in the Fortification do not exceed the reach of a Muſquet, that is, 60 or 70 Rods; for after this manner more ſpace is included with fewer Bulworks, and there<g ref="char:EOLhyphen"/>fore with leſs charges. The other Maxims are alſo very ſtrict<g ref="char:EOLhyphen"/>ly obſerved in my Fortifications.</p>
+               <p>Now to obtain all theſe Advantages, I deſcribe in <hi>Fig.</hi> 2. <hi>Num.</hi> 2. the Ground-Lines of part of an Eleven-angled Work, according to <hi>Fryday,</hi> as alſo part of an Eleven-angled Work, according to my own practice, both of them Fortified after our ſecond Methods of Fortifying. Which is the moſt commodi<g ref="char:EOLhyphen"/>ous, and the fitteſt for Cities of an ordinary extent: but to For<g ref="char:EOLhyphen"/>tifie very great Towns, it will be better to make uſe of the third Method. I ſhall therefore ſhew firſt the difference of Lines in our two Methods, and afterwards the manner of apply<g ref="char:EOLhyphen"/>ing the whole Work unto practice. See <hi>Num.</hi> 2. <hi>Fig.</hi> 2.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="3">The Length of Lines in an Eleven-angled work Fortified after <hi>Fryday</hi>'s ſecond Method.</cell>
+                        <cell cols="2">The Length of Lines, according to my ſecond Method, in a Figure of Ele<g ref="char:EOLhyphen"/>ven Angles.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A B</hi>
+                        </cell>
+                        <cell>Exterior Polygone</cell>
+                        <cell>78.13</cell>
+                        <cell>
+                           <hi>A B</hi>
+                        </cell>
+                        <cell>90.00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>F G</hi>
+                        </cell>
+                        <cell>Interior Polygone</cell>
+                        <cell>64.38</cell>
+                        <cell>
+                           <hi>F G</hi>
+                        </cell>
+                        <cell>74.03</cell>
+                     </row>
+                     <row>
+                        <cell>—</cell>
+                        <cell>The little Semi-diameter</cell>
+                        <cell>114.26</cell>
+                        <cell>—</cell>
+                        <cell>131.36</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>F E</hi>
+                        </cell>
+                        <cell>The Gorge</cell>
+                        <cell>14.19</cell>
+                        <cell>
+                           <hi>F E</hi>
+                        </cell>
+                        <cell>24.00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A G</hi>
+                        </cell>
+                        <cell>The Capital-Line</cell>
+                        <cell>24.40</cell>
+                        <cell>
+                           <hi>A G</hi>
+                        </cell>
+                        <cell>28.32</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A C</hi>
+                        </cell>
+                        <cell>The Face</cell>
+                        <cell>24.00</cell>
+                        <cell>
+                           <hi>A C</hi>
+                        </cell>
+                        <cell>27.69</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>C D</hi>
+                        </cell>
+                        <cell>The Flanque or Shoulder</cell>
+                        <cell>11.91</cell>
+                        <cell>
+                           <hi>C D</hi>
+                        </cell>
+                        <cell>16.00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>D E</hi>
+                        </cell>
+                        <cell>The Courtine</cell>
+                        <cell>36.00</cell>
+                        <cell>
+                           <hi>D E</hi>
+                        </cell>
+                        <cell>27.00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A E</hi>
+                        </cell>
+                        <cell>Line of Defence <hi>Fichante</hi>
+                        </cell>
+                        <cell>61.68</cell>
+                        <cell>
+                           <hi>A E</hi>
+                        </cell>
+                        <cell>64.50</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A H</hi>
+                        </cell>
+                        <cell>Line of Defence <hi>Secant</hi>
+                        </cell>
+                        <cell>48.85</cell>
+                        <cell>
+                           <hi>A H</hi>
+                        </cell>
+                        <cell>54.00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>E H</hi>
+                        </cell>
+                        <cell>Second Flanque</cell>
+                        <cell>14.19</cell>
+                        <cell>
+                           <hi>E H</hi>
+                        </cell>
+                        <cell>12.00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here the difference of Lines is clearly ſeen; and that my Figure of eleven Angles containeth in the Circuit of its exterior Poly<g ref="char:EOLhyphen"/>gones,
+<pb n="11" facs="tcp:96811:12"/>130.57 ② more than that of <hi>Fryday</hi>'s; for his eleven Polygones are 859.43 ② in length, and my eleven 990 ⓪, and my Line of Defence is no more than 2.72 ② longer than his, which is little or no difference; my Flanques, Gorges, and conſequently whole Bulworks are much larger, and more con<g ref="char:EOLhyphen"/>venient. My Bulworks-Angle, (or Angle Flanqued) is equal to his; as alſo the Angle of the Polygone, and the Angle of the <hi>Tenaille,</hi> and the Faces are as long as the Courtines. My Flanques defend the next Bulworks, Faces and Moats, at righ Angles: So that all parts do mutually defend themſelves with great conveniencie. Here it is to be obſerved, That I do in<g ref="char:EOLhyphen"/>clude very near as much ſpace with nine of my Bulworks, as <hi>Fry<g ref="char:EOLhyphen"/>day</hi> doth with eleven of his, keeping very near the ſame Line of Defence; which eaſeth the Charges very conſiderably, beſides the great Symetry of the Work. And this is all that con<g ref="char:EOLhyphen"/>cerns the Ground-Lines; the vertue of this Work will be ſeen by that which follows. I ſhall proceed now to the Structure of theſe Fortifications, and how the proportions of Lines are to be found. I doubt not, but there be many <hi>Theorici,</hi> which underſtand the uſe of Fortifications no otherwiſe than upon the Paper, who will imagine, that this Work cannot be good, ſeeing the Flanques do not (according to the profound Error before mentioned) ſtand Perpendicular to the Cour<g ref="char:EOLhyphen"/>tines; not conſidering what ſtrength the Bulworks have by this Obliquity, not onely thoſe that are next, but alſo thoſe that are ſituated on the other ſide. For hereby the Bulworks gain at the entrance upon each Gorge, the length <hi>D I,</hi> be<g ref="char:EOLhyphen"/>ing 8 ⓪ twice, which is 16 Rods gained upon both the Gor<g ref="char:EOLhyphen"/>ges, ſo that the entrance of the Bulwork cometh to be 48 Rods. This affordeth place enough to Lodge upon the Flanques the ſuppoſed Artillery and Souldiers, which I eſteem neceſſary. It affordeth alſo room for the making of Re<g ref="char:EOLhyphen"/>trenchments, and the Flanques come to be much longer af<g ref="char:EOLhyphen"/>ter this manner, as is proved by the 47 of the firſt of <hi>Eu<g ref="char:EOLhyphen"/>clid.</hi> It maketh alſo the great Line of Defence to keep its due meaſure, not ſurpaſſing the length of 64 ⓪, which is the true reach of a Muſquet. Although my Polygones be conſiderably longer, yet the Lines of Defence are not ſenſi<g ref="char:EOLhyphen"/>bly longer than thoſe of <hi>Fryday</hi>'s, and others. I am alſo of opinion, That the Modern Flanques are more for an imagi<g ref="char:EOLhyphen"/>nary
+<pb n="12" facs="tcp:96811:13"/>beauty, than to make good the Defence, which notwith<g ref="char:EOLhyphen"/>ſtanding is the main end for which they are made, and wherein conſiſteth the ſtrength of Fortreſſes.</p>
+               <div type="section">
+                  <head>The Calculation of my great Fortifications, con<g ref="char:EOLhyphen"/>ſiſting in the little, mean, and great Royal.</head>
+                  <p>TO do this, I ſtate firſt my exterior Polygones, after which I regulate the proportions of the whole Work. For the exterior Polygone of the <hi>little Royal,</hi> I take 80 ⓪, for that of <hi>mean Royal</hi> 90 ⓪, and for the exterior Polygone of the <hi>great Royal</hi> 100 ⓪; and I follow the ſame proportions in the Cal<g ref="char:EOLhyphen"/>culating of my Lines, which <hi>Fryday</hi> hath, that is, making the Courtine to the Face, as 36 to 24, or as 3 to 2; but the diffe<g ref="char:EOLhyphen"/>rence is, that I take my parts greater, and redreſs them, after the firſt Poſition is done. This Calculation is done onely by the Rule of Three, thus: Admit there is a place to be Fortified with a Regular Fortification of four, five, ſix, or more Angles, and that after the firſt, ſecond, or third of my Methods; I take then the Lines of ſuch a Polygone, as the Fortreſs ſhould be, that I intend to make, out of <hi>Fryday</hi>'s Tables. For example, I would make a Square after my firſt Method; I take then out of the Tables the length of the Lines; as 24 ⓪ for the Faces; 36 the Courtines; for the Gorges 9.23 ②; for the Capital 19.73 ②; for the Flanque 7.74 ②; and ſo for all the Lines: theſe Lines I lay before me, and ſay, by the Rule of Three, If the exterior Polygone of a Square of <hi>Fryday</hi>'s, being 82.36 ②, giveth me the Courtine 36 ⓪, what does my exterior Polygone of 80 ⓪ after the firſt Method in the great Royal, give me for my Courtine? and the anſwer is, 34.97 ②.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Item, the exterior Polygone giveth for the Face, according to <hi>Fry<g ref="char:EOLhyphen"/>day,</hi> 82.36 ② —24 ⓪.</cell>
+                           <cell>What giveth the Polygone of 80 ⓪? —Anſwer. It giveth 23.31 ②</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb facs="tcp:96811:13"/>
+                  <pb facs="tcp:96811:14"/>
+                  <figure>
+                     <figDesc>various depictions of fortifications</figDesc>
+                     <head>Num. I.</head>
+                     <figure>
+                        <figDesc>detail from schematics of fortification</figDesc>
+                        <head>Fig. II</head>
+                        <p>Gra<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                        </p>
+                        <p>Esplanade</p>
+                        <p>Bedock<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e wegh</p>
+                        <p>Grafte</p>
+                        <p>Parapet vande Fauſebraye</p>
+                        <p>Bedeckte Wegh</p>
+                        <p>parapet van den grooten wall</p>
+                        <p>Kr<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> des wals</p>
+                     </figure>
+                     <figure>
+                        <figDesc>side-view of fortification</figDesc>
+                        <head>Fig. I.</head>
+                     </figure>
+                     <pb facs="tcp:96811:14"/>
+                     <figure>
+                        <figDesc>schematics of fortification</figDesc>
+                        <p>Maete van. 80. Rynlandtse Roeden</p>
+                     </figure>
+                  </figure>
+                  <pb facs="tcp:96811:15"/>
+                  <pb n="13" facs="tcp:96811:15"/>
+                  <p>And ſo obſerving the ſame Rule for a Square, whoſe exterior Polygone is 80 Rods (as in the Figure of <hi>Numb.</hi> 1.) there will ariſe the following proportions of the Lines, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>
+                              <hi>H G</hi>
+                           </cell>
+                           <cell>The Courtine</cell>
+                           <cell>34.97 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>A I</hi>
+                           </cell>
+                           <cell>The Face</cell>
+                           <cell>23.31 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>C H</hi>
+                           </cell>
+                           <cell>The Gorge</cell>
+                           <cell>8.96 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>C A</hi>
+                           </cell>
+                           <cell>The Capital-Line</cell>
+                           <cell>19.16 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>H I</hi>
+                           </cell>
+                           <cell>The Flanque</cell>
+                           <cell>7.52 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>H L</hi>
+                           </cell>
+                           <cell>The ſecond Flanque</cell>
+                           <cell>6.77 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>C D</hi>
+                           </cell>
+                           <cell>The interior Polygone</cell>
+                           <cell>52.88 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>H B</hi>
+                           </cell>
+                           <cell>The great Line of Defence</cell>
+                           <cell>59.05 ②</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>D M</hi>
+                           </cell>
+                           <cell>The little Semi-diameter</cell>
+                           <cell>39.37 ②</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <div type="note">
+                     <head>N. B.</head>
+                     <p>He who is diſpoſed to Calculate, or who has not theſe Ta<g ref="char:EOLhyphen"/>bles at hand, he may find out himſelf, by Calculation, the chief Angles of every Figure, and afterwards by the Tables of <hi>Sines,</hi> or Trigonometry, the length of the Lines, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Theſe Lines and others that may be required, being found by the foregoing Rules, I delineated the Figure (whether it be a Fortreſs of five, ten, eleven or more Angles) according to Art, as here in the Figure <hi>Numb.</hi> 1. the Square, which I hold to be the firſt Figure capable of being Fortified. This being drawn according to the Modern Practice, I redreſs the Ground-Lines according to my Method, very eaſily thus: I lengthen the Faces at pleaſure, as here <hi>A I, N C,</hi> of which <hi>I N,</hi> is the Line of Defence <hi>Secant.</hi> Upon this <hi>C A,</hi> I let fall a Perpendi<g ref="char:EOLhyphen"/>cular-line, touching the extremity of the Face <hi>B K,</hi> in <hi>K,</hi> and I take the Line <hi>F K,</hi> for the Flanque; and thus I do round about the whole Fortification; and this from a Square, to a Fi<g ref="char:EOLhyphen"/>gure of twelve ſides <hi>incluſive.</hi> In ſuch Fortreſſes, as have more than twelve Polygones, I keep always the ſame Courtines. And ſo the form of a Square with its Ground-Lines is ſuffici<g ref="char:EOLhyphen"/>ently ſeen in <hi>Numb.</hi> 1. and the Structure of it ſhewed before. From this alteration ariſe theſe Advantages; Firſt, That the Gorges are lengthened by <hi>F G,</hi> and <hi>H E,</hi> and therefore the Bulworks at their entrance become wider and fitter for Re<g ref="char:EOLhyphen"/>trenchments, and the uſe of neceſſary Artillery; as may be ſeen in the Profile of the Flanques. But the Gorges remain<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:96811:16"/>at the length of <hi>D G,</hi> the ſaid Artillery cannot be duly Lodged. This lengthening of the Gorges maketh alſo the Flanques <hi>E I, F K,</hi> longer than the former Flanques <hi>K G,</hi> and <hi>I H,</hi> were: This Obliquity of Flanques cauſeth alſo the Fa<g ref="char:EOLhyphen"/>ces <hi>A I,</hi> and <hi>K B,</hi> together with the Moats lying before them, to be Defended at Right-angles, and that the Lines of Defence <hi>F A,</hi> and <hi>E B,</hi> become ſhorter. And laſtly, This manner of Structure giveth ſufficient room for the Cutting or Retiring of the Flanques. And concerning the Angle-flanqued, or Angle of the Bulwork, which in a Square is 60 degrees; he who de<g ref="char:EOLhyphen"/>ſires to have it greater, let him draw a Line from the Point, where the Flanque and Courtine meet together, by the ex<g ref="char:EOLhyphen"/>tremity of the oppoſite Flanque; as by 5 to <hi>Q,</hi> which is the Line <hi>D</hi> 5 <hi>Q,</hi> and ſo at th'other ſide. Thus the Faces become ſomething ſhorter, and the Angle ſomething greater, accord<g ref="char:EOLhyphen"/>ing to the 21 of the firſt of <hi>Euclid.</hi> But the Second Flanque is loſt, which in a Square ſignifieth but little. And this in my opinion, is ſufficient as to the alteration of the Ground-Lines, and the finding of them; and the more Bulworks in any Figure keep their juſt diſtance, the more conſiderable will be the advan<g ref="char:EOLhyphen"/>tage gained by their Alteration.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Of the Fauſſe-bray.</head>
+                  <p>THe Modern Engineers draw the Fauſſe-bray parallel, round about the foot of the Wall, at ſuch a diſtance, that between the Parapet of the Fauſſe-bray and the Wall is left a hidden way of between 15 and 25 Foot. This Parapet is made to defend the Moat, when the Enemy is paſſed the Counter-ſcarp, and intendeth to carry over the Gallery. I make alſo Fauſſe-brays, but after another manner than the Modern, <hi>viz.</hi> thus: I draw a Parallel-Line with the Flanques, as in <hi>Numb.</hi> 1. <hi>X W,</hi> parallel with the Flanque 6 <hi>V,</hi> at the di<g ref="char:EOLhyphen"/>ſtance of five Rods; ſo that the place may be capable to hold Canon; afterwards I lengthen the Faces of the Bulwork, as <hi>B V,</hi> till they cut the parallel <hi>X, W;</hi> this done, I draw a parallel with the Courtine, at the diſtance of 3 or 4 ⓪, as <hi>X Y;</hi> ſo that the Lines <hi>V, W, X, Y,</hi> 2, 3, make the Fauſſe-bray; and this I do round about the Fortreſs, onely before the Flanque and Courtine, and not before the Faces. The reaſons hereof are
+<pb n="15" facs="tcp:96811:16"/>theſe: Firſt, It is found by experience, that the Fauſſe-brays are more hurtful than advantagious before the Faces; becauſe they are not of ſervice, before the Enemy cometh to Lodge up<g ref="char:EOLhyphen"/>on the <hi>Eſplanade</hi> or Parapet of the hidden way, and then they are to oppoſe him, which they cannot poſſibly do: And this ſo much the leſs, becauſe the Enemy may plant his Canon there for the Deſtroying and Diſmounting of them. Which is eaſily done, ſeeing it is but a bare Parapet, which is ſoon thrown down; ſo that in this part before the Faces, which are Attacqued, no body can remain for Defence, by reaſon of the playing of the great Guns from the Batteries, which may be made as need requireth; as here <hi>Fig.</hi> 11. <hi>Numb.</hi> 1. is intimated by the Letters <hi>A, B,</hi> and <hi>C;</hi> where from the Battery <hi>A,</hi> the Face of the Bulwork <hi>D,</hi> and its Fauſſe-bray is pierced Perpendicu<g ref="char:EOLhyphen"/>larly, and from the Battery <hi>B</hi> Obliquely; but the Battery <hi>C</hi> cutteth and cleareth the Earth away, which is ſhaken by the two others; ſo that by theſe Batteries and Muſquet-ſhots, coming from the Lines and <hi>Cors de Guards,</hi> the Faces, as well of the Fauſſe-bray, as of the great Wall, are ſoon ru<g ref="char:EOLhyphen"/>ined and left without Defence, ſo that no body may be ſeen upon theſe Lines without being hit; whence it followeth, That they cannot hinder the coming over of the Gallery, but it muſt of neceſſity be done from the oppoſite Flanque. <hi>Item,</hi> That ſo ſoon as this part of the Fauſſe-bray, lying before the Face, is diſcovered, it is preſently made uſeleſs to the Defen<g ref="char:EOLhyphen"/>ders; and not onely ſo, but it does them this hurt and diſad<g ref="char:EOLhyphen"/>vantage, that ſo ſoon as the Gallery cometh over, the Miners are able to Undermine the Faces of the Bulwork, where they pleaſe, and at ſeveral places together. The Mines being blown up, the Enemy may ſet Footing upon the ſpace where the Fauſſe-bray lies, not onely to Aſſault the Breach, but he may run along the Foot of the Wall through the Fauſſe-bray, to fall on at more places at the ſame time. To this it might be repli<g ref="char:EOLhyphen"/>ed, That the Fauſſe-bray ought to be Cut with Trenches, to hinder this running about. But every one who has experience in theſe Actions, knows very well, what ſlender Oppoſiti<g ref="char:EOLhyphen"/>on theſe Trenches are able to make, eſpecially, when the Earth, which is raiſed by the Mine, falls down, and ſome<g ref="char:EOLhyphen"/>times buries the Defenders alive. This place is alſo of Ad<g ref="char:EOLhyphen"/>vantage for the Enemy, when the Breach is Retrenched, and he will make new Attacques upon it, and by that means
+<pb n="16" facs="tcp:96811:17"/>will lodge himſelf conveniently in the Fauſſe-bray, and fur<g ref="char:EOLhyphen"/>ther in the Breach; whereas otherwiſe, where there is no Fauſſe-bray before the Faces, he findeth very inconvenient Lodging againſt the ſlooping of the Wall, ſeeing no other place is found to fix upon. The Miners are forced to make their Mines about the place, where the Gallery cometh on; beſides that the Faces, which are ſurrounded with theſe Fauſſe-brays, being Attacqued by Canon and Mines, all the Ruines of them remain lying in the ſame, and afford an eaſier Aſcent unto the Enemy; whereas otherwiſe, where they are not, the Ruines rowl down into the Moat, and the Breach remaineth clear, and the Enemy findeth little Earth to Retrench himſelf. By all which it is eaſie to underſtand, That this part bringeth more advantage than hurt unto the Enemy. To what end is it then, to be at ſuch Charges to our Prejudice, and to cum<g ref="char:EOLhyphen"/>ber the Moat before the Bulworks with this needleſs Parapet? Therefore to conclude, I ſay, That the Faces of a Bul<g ref="char:EOLhyphen"/>work being Attacqued, can make little Oppoſition of their own; but ought to be Defended from the Flanques and parts of the Courtine; and the more eaven and neatly the Faces lie, the better may they be Flanqued. That part of the Flanque of the Fauſſe-bray <hi>D,</hi> hinders alſo, that the Face a <hi>G</hi> from being defended at the bottom from the oppoſite Flanque. Some Engineers are of opini<g ref="char:EOLhyphen"/>on, That the Fauſſe-brays ought to run out after the ſhape of Ravelins in the middle, before the Courtine. I think this needleſs, where the Lines of Defence are of a juſt length, not much exceeding 60 Rods; but where they be longer, this muſt be practiſed. At <hi>Breda,</hi> it is done before ſome long Courtines. And this is enough as to what concerns the Ground-Lines of the Fauſſe-bray, in the <hi>Profiles:</hi> I ſhall ſhew hereafter, how the Work is to be raiſed. It remaineth now, that I ſpeak of the Ground-Lines of the Counter-ſcarp and hidden way, and how it may be made, that it may defend it ſelf with great Advantage, without the great Wall; and that theſe Counter-ſcarps are as ſtrong, yea ſtronger, than the Mo<g ref="char:EOLhyphen"/>dern Fortreſſes themſelves.</p>
+                  <div type="note">
+                     <pb n="17" facs="tcp:96811:17"/>
+                     <head>N. B.</head>
+                     <p>In thoſe Fortreſſes, where the exterior Flanquing-angle (or, as the <hi>French</hi> call it, <hi>Angle de Tenaille</hi>) comes to be leſs than 120 degrees, (but it is never made leſs than 90 degrees) the Faces may be lengthened upon the Ground-Lines, till they meet together; and in ſuch Figures the Fauſſe-bray may be made upon theſe Lines, that is, upon the Line of Defence <hi>Secant,</hi> without running parallel with the Flanque, as may be ſeen in <hi>Numb. II.</hi> by the three Figures 5, 6, 7. But when it happeneth, that the Lines of Defence <hi>Secant</hi> meet one another within the Courtine, or juſt before it; then a Parallel-Line is to be drawn before the Courtine at the diſtance of three Rods, to have a Communication; as the underſtanding Reader will eaſily perceive, and is ſeen in the Figure of <hi>Numb. II,</hi> &amp;c.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Of the Counter-ſcarp, or hidden Way.</head>
+                  <p>THe Modern Engineers do ſtrengthen the outward Brink of the Moat (or Counter-ſcarp in <hi>Italian,</hi>) with Ravelins and Half-moons, leaving a hidden way with a Ditch about it, and without this hidden way they make ſometimes another, without a Ditch; as may be ſeen at <hi>Breda:</hi> Which latter I hold to be very good, becauſe not onely great De<g ref="char:EOLhyphen"/>fence may be made from thence, but they are alſo very con<g ref="char:EOLhyphen"/>venient for Sallying out, both on Foot and on Horſe-back; for the Moat doth not hinder it, and the Enemy doth not know from what ſide he muſt expect the Sally: Thoſe who thus Sally out, being driven back, may always retire hither, and preſent<g ref="char:EOLhyphen"/>ly be in a poſture of Defence again behind this Parapet; whereas otherwiſe they are many times driven into the Ditch of the hid<g ref="char:EOLhyphen"/>den way, with great loſs and diſorder. This hidden Way (or <hi>Eſplanade</hi>) coſteth little, for in places where the ground is ſome<g ref="char:EOLhyphen"/>thing dry, it is cut in above half its height under the Horizon, that is, three or four Foot, that it may be the better flanqued from the firſt <hi>Eſplanade</hi> which is behind it; as alſo, that the Shots may flie more Horizontally, <hi>&amp;c.</hi> I do Fortifie my Moat with another kind of Work, and I ſhall ſhew firſt the manner how I do it, and afterwards give reaſons why it is ſo much
+<pb n="18" facs="tcp:96811:18"/>better than the Modern Works. And at the ſame time I ſhall diſcover the Defects, which the Modern Works are ſub<g ref="char:EOLhyphen"/>ject unto.</p>
+                  <p>See <hi>Fig.</hi> 4. <hi>Numb.</hi> 3. which is part of a Regular Seven-an<g ref="char:EOLhyphen"/>gled Figure after my <hi>little Royal,</hi> where the exterior Polygone is 80 ② long: Now to draw my Counter-Guards (for ſo I call them inſtead of Counter-Scarps, this name being impro<g ref="char:EOLhyphen"/>per) about it, and to give them ſuch a form, as may fit them for that ſervice I expect from them; I lengthen the Half-diame<g ref="char:EOLhyphen"/>ter <hi>K, O</hi> to <hi>A,</hi> or further at pleaſure; then I meaſure upon the lengthened Half-diameter from the brink of the Moat <hi>O</hi> to <hi>I,</hi> thirty Rod or more, according as I would have the Flanques <hi>N</hi> 5 and 4 <hi>R</hi> ſhort or long. Then I draw from ⅓ of the Face, as from <hi>K</hi> the Line <hi>K, G</hi> 5, as alſo on th'other ſide the Line <hi>L, R, M,</hi> from the Point where theſe two Lines meet, which ſhould be before the middle of the Courtine; as here from <hi>G,</hi> I draw the Perpendicular <hi>G H,</hi> which is the Capital-Line of the Ravelin <hi>W, G, P, H;</hi> then I meaſure from <hi>N</hi> to <hi>L,</hi> as alſo from <hi>G</hi> to <hi>P,</hi> upon the Lines <hi>K, G,</hi> on th'other ſide <hi>L, G,</hi> ſuch a di<g ref="char:EOLhyphen"/>ſtance as I need for my <hi>retired</hi> Flanques: from theſe Points, <hi>viz.</hi> from <hi>N</hi> and 4, I draw <hi>N</hi> 5 Perpendicular to <hi>L, M,</hi> and 4 <hi>R,</hi> Perpendicular to <hi>K</hi> 5, as is clearly ſeen in the Figure, and want<g ref="char:EOLhyphen"/>eth no further explanation as to the Delineation of it. I make further upon the Line 5 <hi>R</hi> an equilateral Triangle, as 5 <hi>R, R,</hi> which giveth a Ravelin, whoſe Angle at the Point <hi>R</hi> is 60 de<g ref="char:EOLhyphen"/>grees: He who deſireth the Angle to be greater, may make it ſo, without prejudice to th'other Work. About this Work I draw a Parallel-Line at the diſtance of five Rods, <hi>viz. M R G</hi> 5 2; which is the Ditch about the Counter-Guard, ſo that the Rave<g ref="char:EOLhyphen"/>lins lying before, become little Iſlands. At the brink of this Ditch I make a hidden way or <hi>Eſplanade,</hi> whoſe ſloping is regu<g ref="char:EOLhyphen"/>lated according to the Wall of the Counter-Guard, without Ditches, with ſmall coſt, which becomes a great benefit. This I continue about the whole Fortreſs; and all is clearly ſeen in the Figure, how the Work muſt lie according to the ſcale and meaſures. Theſe are all the Outworks, which I look upon as neceſſary for a good Defence; and I make no Hornworks, <hi>&amp;c.</hi> unleſs extream neceſſity do require it, when perhaps there is ſome height; and then I make them after another manner than the Modern, as the nature of the place does require.</p>
+               </div>
+               <div type="section">
+                  <pb n="19" facs="tcp:96811:18"/>
+                  <head>Of the Vertues and Defects of the Modern Outworks.</head>
+                  <p>THe Modern Outworks are <hi>Ravelins, Half-moons, hid<g ref="char:EOLhyphen"/>den Ways, Crownworks, Hornworks, Tongues, Ket<g ref="char:EOLhyphen"/>tles,</hi> &amp;c. and are made about the Fortreſſes, as <hi>Fig.</hi> 5. <hi>Num.</hi> 3. ſheweth; where the Figures marked with <hi>G</hi> are called <hi>Half-moons,</hi> thoſe with <hi>B Ravelins, D</hi> is a <hi>Crownwork,</hi> ſuch as are laid before the Courtines, before which there lieth a ſingle <hi>Tongue; E</hi> is a Crownwork lying before a Bulwork, being ſtrengthned with a double <hi>Tongue,</hi> and at the ſide of it there is repreſented the form of a <hi>Hornwork.</hi> This Figure is part of a Regular Seven-angled Work, according to the moſt Modern practice, as well the Outworks as the Royal Work. The Vertues and Defects of the Royal Work are in part manifeſted already. But now I ſhall ſhew thoſe of the Outworks; and firſt</p>
+               </div>
+               <div type="section">
+                  <head>Of Ravelins.</head>
+                  <p>THe Ravelins, marked with <hi>B,</hi> I count very neceſſary, ſee<g ref="char:EOLhyphen"/>ing they multiply very much the Defence, eſpecially of the Outworks: But becauſe they do in a manner ſtand inſtead of a Royal Work in Modern Fortreſſes, they have this Defect, that their Flanqued Angles are too ſmall, and the Points may be eaſily broken, as alſo the Faces, as may be ſeen in <hi>Fig.</hi> 5. where the Ravelin <hi>B</hi> being Attacqued from the Batteries <hi>A, A,</hi> is eaſily made uſeleſs. There may be more Batteries placed to Attacque theſe Ravelins, as it is required, becauſe it is ſeen from the whole Field <hi>I A L.</hi> Theſe Works being Attacqued, it is very diffi<g ref="char:EOLhyphen"/>cult to ſuccour them, and no leſs difficult for the Defenders to retire when it is taken; and being once taken, it becomes, as it were, a Knife to cut the Throat of the whole Fortreſs.</p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:96811:19"/>
+                  <head>Of the Modern Half-Moons.</head>
+                  <p>THeſe Half-Moons marked <hi>Fig.</hi> 5. <hi>Numb.</hi> 3. with <hi>C,</hi> I look upon as Works of little uſe, becauſe they can make but poor Defence, and are Defended but weakly; ſince they have no other Flanque, than from the Faces of the next ſituated Ravelins; which Defence being broken (which is eaſily done, as I have ſhewed by the Ravelins, and appeareth by the Fi<g ref="char:EOLhyphen"/>gure) they remain to the uſe of the Enemy, to make in it the Battery <hi>H,</hi> whereby the oppoſite Flanques of the Bulworks are ruined, and the Galleries are brought over with ſurety; all which is clearly ſhewed.</p>
+                  <div type="note">
+                     <head>N. B.</head>
+                     <p>The Faces of the Half-Moons cannot be ſeen from the Flanque of the great Wall, the Ravelins being in the way; <hi>ergo,</hi> they cannot be Flanqued from thence, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Of the Modern hidden Way, or Counter-ſcarp, as they call it.</head>
+                  <p>THeſe hidden Ways are very advantagious before Fortreſ<g ref="char:EOLhyphen"/>ſes; for lying low by the Horizon, they make all the Shots that come from thence, to Mow and Clear the Horizon: neither can they well be broken by the Canon, but muſt for the moſt part be taken by ſtorm, and they are commanded from the great Wall: This is a work which covereth much the defects of the Modern Fortifications. They favour alſo the Sally<g ref="char:EOLhyphen"/>ing out, when they have no Ditches; but here in theſe United Provinces they have almoſt all of them their Ditches; which fault being diſcovered, it hath been remedied by another hidden Way, running about the Ditch of the firſt, and being cut in, part of it, according to the nature of the ground, under the Ho<g ref="char:EOLhyphen"/>rizon, and the ſurface of the Parapet of this hidden Way, loſeth it ſelf, ſloping into the Field, without a Ditch.</p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:96811:19"/>
+                  <head>Of Crown-works, and Horn-works.</head>
+                  <p>IT is many times neceſſary to make theſe or the like Works to take in any heights or ſuburbs, according as the place re<g ref="char:EOLhyphen"/>quireth it. They are made after the manner and practice of the great Fortreſſes, and according to the ſame proportion, except<g ref="char:EOLhyphen"/>ing onely, that their parts are ſmaller, and they have but half-Bulworks on either ſide, which are very weak; and yet their ſtrength may be much increaſed by an underſtanding Engineer. They ought, in my judgement, to be made ſo, that they need not to relie upon the Defence of the great Wall; but that they be ſufficient to defend themſelves, eſpecially thoſe that lie be<g ref="char:EOLhyphen"/>fore the Courtines, as in <hi>Fig.</hi> 5. may be ſeen by the Crown<g ref="char:EOLhyphen"/>work <hi>D,</hi> whoſe Wings have a very weak and oblique defence from the Faces of the Bulworks, and being Attacqued by night, the Lines <hi>E E</hi> cannot be well defended from the Faces of the Bulworks. Yea, in ſuch occaſions the Defence of the great Wall is but troubleſome to theſe or the like Works; for the Muſqueteers of the great Wall, ſhooting by night onely upon the Alarm of the Aſſaulters of the Outworks, do hit as well within as without, and wound as well the Defenders as the Adverſaries. They ought nevertheleſs to lie open towards the City; and to be made ſo, that being taken, they may be lit<g ref="char:EOLhyphen"/>tle able to hurt it.</p>
+               </div>
+               <div type="section">
+                  <head>Of ſingle and double Tongues.</head>
+                  <p>THeſe are very ſlight Works, and never ought to have o<g ref="char:EOLhyphen"/>ther Profiles, then thoſe of ordinary Trenches; for elſe, if the Wall ſhould be high, they were not able to defend their own Front. Neither are they but ſeldom made otherwiſe than Trenches, or to hinder the Approaches; as alſo the <hi>Kettels</hi> mark<g ref="char:EOLhyphen"/>ed with <hi>H.</hi> Hence it may be ſeen, wherein the ſtrength of the Outworks now in uſe doth conſiſt, which the Modern Engi<g ref="char:EOLhyphen"/>neers make ſuch boaſt of. Let us now examine the Outworks according to my Practice.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:96811:20"/>
+               <head>OF OUTWORKS, ACCORDING To the lateſt METHOD and PRACTICE.</head>
+               <div type="section">
+                  <head>
+                     <hi>Firſt of the</hi> Counter-Guard.</head>
+                  <p>OF theſe Outworks it might be ſaid, That they take in much place, which is a truth; but when we ſhall have ſhewed what benefit cometh by them, I doubt not but that will outweigh any inconvenience that ſhall be occaſioned be the great ſpace and place which theſe Works take in more than other Works uſually do. Neither is the difference ſo very great: For admit, that about the Modern Seven-angled Work <hi>Fig.</hi> 5. <hi>Numb. III.</hi> there ſhould be made another hidden Way about that which is there already, or that it ſhould be ſtrengthened with two hidden ways; the Semi<g ref="char:EOLhyphen"/>diameter of my Heptagone <hi>Fig.</hi> 4. is but five Rod longer then that of th'other. In recompence whereof it is to be conſidered, That my exterior Polygones of the Heptagone are 80 Rods; whereas thoſe of th'other (or Modern) Heptagone are but 70 Rod long, which in the whole maketh 70 Rod difference, which is an entire Polygone. Wherefore to include the place of my Heptagone after the Modern manner, there would be required eight Bulworks; ſo that I do include and Fortifie more place with fewer Bulworks than now is uſual, which under<g ref="char:EOLhyphen"/>ſtanding men will eaſily conceive, by comparing the one with th'other. To ſhew then, what good this Counter-guard doth, let us ſuppoſe, That the Fortreſs <hi>Fig.</hi> 4. is alſo Attacqued by the Approaches <hi>O O.</hi> Now skilful Artiſts know, That it is beſt for the Enemy to Attacque the Point <hi>D,</hi> and after he hath gained the Counter-ſcarp, to paſs the Ditch of the Counter-guards of 5 Rods. To do this, it is needful for him to render firſt the Flanque of this Work <hi>D,</hi> and the Face of the Ravelin <hi>F</hi> uncapable of Defence: but if he would break the Flanque of the Counter-guard <hi>D,</hi> he findeth no other place for his Bat<g ref="char:EOLhyphen"/>tery than by the letter <hi>C,</hi> where but five Pieces can be placed,
+<pb facs="tcp:96811:20"/>
+                     <pb facs="tcp:96811:21"/>
+                     <figure>
+                        <figDesc>schematics of two fortifications with a sketch of battle between</figDesc>
+                        <head>Num. III.</head>
+                        <p>Fig 4</p>
+                        <p>Schale voor deſe beÿde Fortificatien van. 140 roed.</p>
+                        <p>Fig. 5</p>
+                     </figure>
+                     <pb facs="tcp:96811:21"/>
+                     <pb facs="tcp:96811:22"/>
+                     <pb n="23" facs="tcp:96811:22"/>to Diſmount the loweſt Flanque; and ſurther in the Field about <hi>G</hi> there might be planted 3 or 4, to throw down the uppermoſt Parapets of the <hi>Retired Flanques,</hi> ſo that nine Pieces of Canon may be uſed; whereas thoſe of the <hi>Retired Flanques</hi> may bring 17 or 18 Pieces in Counter-battery, and from the part <hi>H,</hi> 4 or 5 Pieces, for the Defence of the Face of the Coun<g ref="char:EOLhyphen"/>ter-guard; therefore the Defenders are able with more eaſe to break the Battery of the Aſſaulters, than they to break the Flanques of the Defenders. That which hinders, that no greater place is found for the Battery of the Aſſaulters, is the Ravelin <hi>F,</hi> and the Angle of the Flanque of the Coun<g ref="char:EOLhyphen"/>ter-guard <hi>I.</hi> Let us ſee, whether there be no where elſe a place to make a Battery, to break the <hi>Retired Flanques</hi> withall, and to Diſmount the Canon ſtanding upon the ſame. Suppoſe there be a Battery by <hi>B,</hi> from thence with the Line <hi>B</hi> one might boar in between the Ravelin <hi>F,</hi> and the Angle <hi>I,</hi> but not ſo, as to touch the loweſt and firſt Flanque; yet this ſhot (which cannot be done by more than one Piece of Canon) would come obliquely againſt the laſt Shooting-hole of the ſecond <hi>Retired Flanque,</hi> and cannot Diſinount the Canon that ſtandeth there, becauſe the ſhot hitteth the Parapet obliquely in the forepart. No more can it be done from the Battery <hi>A,</hi> againſt which Batteries upon the Line <hi>D E,</hi> every where Counter-batteries may be made. Put the caſe, That the Enemy not regarding all theſe difficulties, do with great loſs paſs the Ditch by <hi>D,</hi> and undermine the Point of the Counter-guard, (which would alſo be very hard to do, ſeeing the Walls are made ſo, that one cannot well put a Spade into the Ground without being diſcovered) and make a Breach. In this caſe, I can firſt with ſmall labour cut off this Point by the Retrenchments 1 and 2, till the great Retrenchments by 3 and 4 be finiſh't, which are duly defen<g ref="char:EOLhyphen"/>ded from the Flanques 6 and 7, as alſo from the Bulworks<g ref="char:EOLhyphen"/>point 8; beſides that they ſuccour and defend one another. And in caſe the Beſiegers mean to paſs between the Retrench<g ref="char:EOLhyphen"/>ments towards the Bulworks-point, without gaining before the two Lines marked with 3 and 4, they will find hot work. But ſuppoſe they force one of theſe Lines, then there is within, two or three Rods after them, another ready, and thoſe that lie before are Undermined, which Mines are blown up, when the Enemy once thinks to lodge there; and
+<pb n="24" facs="tcp:96811:23"/>this is a thing that may be done with great advantage. There needs not one Rod of ground be loſt, but what is gained with abundance of bloud, and alſo with great toile and labour. Being forced, we have alway a free retirement into the Ravelins marked with <hi>K.</hi> and <hi>L.</hi> And in caſe there be but men within a Fortification made after my Method, who underſtand the Work, it ſeems impoſſible to gain it any other way, than by length of time, and with the loſs of many men. This Work helpeth it ſelf, nothing being in the way that hindereth; and all parts are ſo contrived, that they are provided againſt all inconveniencies. Hence the un<g ref="char:EOLhyphen"/>derſtanding Reader may eaſily conceive, what advantage theſe Outworks have before the Modern. They are Flanqued within and without with Canon and Muſquets from the great Wall; there may be made in haſte, and with ſmall pains, as many Retrenchments as is deſired, which are all enfiled with<g ref="char:EOLhyphen"/>in and without from the great Wall; and the more obſta<g ref="char:EOLhyphen"/>cles are caſt in the way, the more the ſtrength of theſe Works is diſcovered. This is enough as to the form and advantage of my Outworks, which each according to his judgement and place may apply: In my opinion, it would be needleſs to propound theſe things in a plainer manner, ſeeing all particularities may be obſerved by the Figures. It might be ſaid, That theſe Outworks would coſt more, than thoſe that are now in uſe: the contrary of which is true; for the Pa<g ref="char:EOLhyphen"/>rapet of the Modern hidden Way having a Baſe of 60 or 70 Foot, coſteth as much as my Counter-guards-wall, whoſe Profile I do make ſo, that it is juſt Canon-proof. I ſhall not add here the charges of the Modern Crownworks, Hornworks, <hi>&amp;c.</hi> but I put my two Ravelins againſt the Mo<g ref="char:EOLhyphen"/>dern Half-moon and Ravelin; the Counter-guard againſt the Counter-ſcarp now in uſe, my outward hidden Way with<g ref="char:EOLhyphen"/>out Ditches (which is made with ſmall charges) againſt the Modern ſecond hidden Way, being alſo without Ditches. And although this Work ſhould coſt much more, yet the charge is ſufficiently balanced by the benefit that is had thereby: For the Fortreſſes made after this manner, have quite another Defence, and are, beſides their Out and In<g ref="char:EOLhyphen"/>works, provided againſt all Occurrences, with 2, 3, a 4, double Flanques, made as well for Canon, as for Muſquets. If any body thinketh, that I propound new and ſtrange
+<pb n="25" facs="tcp:96811:23"/>things, as doubtleſs thoſe will do, who are poſſeſſed with the Modern practice of Fortifying, and never did ſearch af<g ref="char:EOLhyphen"/>ter more convenient means, or examine the ſtrength of eve<g ref="char:EOLhyphen"/>ry part of it diſtinctly; or what may be the cauſe, why Strong-Holds are loſt ſo ſoon, neither underſtand the force of the Maxims of War now in uſe: To thoſe I reply, That if they will conſider theſe new things judiciouſly, they will find, that the practices of War now in uſe, ought to be preferred before thoſe old things; and that the Work is ve<g ref="char:EOLhyphen"/>ry proper and capable of making a good Defence; and that theſe things were not practiſed conjecturally in a Cloſet, but in occaſions of Beſieging, or being Beſieged; and that in ſe<g ref="char:EOLhyphen"/>veral countreys and grounds, and in ſuch places where in<g ref="char:EOLhyphen"/>deed flew ſwift Bullets, not Sugar-plums, or roaſted Capons. Many things may be projected upon Paper; but we ought to look, whether they be practicable in the open Fields. The Latin proverb, <hi>Facile eſt inventis addere,</hi> might be ap<g ref="char:EOLhyphen"/>plied here, I do confeſs, but it hath not been done as yet by others. I have been about this a long time; but alway obſerving more and more, whether any thing might hinder it, which perhaps I had not conſidered of; and poſſibly there may be ſome ſuch thing, but whatever it be, it may with eaſe be rectified by time and practice. All things deviſed by men, do not immediately come to perfection. Let them who pleaſe to uſe this way, firſt conſider the Work well; and if there be any thing that they do not like, let them practice the Latin proverb aboveſaid. There are yet many Particularities in this VVork, which I do not deſcribe here, but keep them for my uſe, and propound onely the Gene<g ref="char:EOLhyphen"/>rals. It is true, That the Art of Fortifying is highly impro<g ref="char:EOLhyphen"/>ved in theſe United Provinces, by reaſon of the continual exerciſe in it: But here have been but few alterations or diverſities of Attacques, ſeeing they are almoſt all of them made after the ſame manner; as alſo the Defences of the <hi>Spaniards,</hi> who were furniſhed moſt commonly with ignorant Engineers, and their places ill Fortified; ſo that being Be<g ref="char:EOLhyphen"/>ſieged, and much preſſed, they wanted many things that were moſt neceſſary. Here in theſe parts they have been a while at a ſtand, without practiſing any thing at all, which might ſerve to rectifie their Errors; although underſtanding men ſaw well enough, that there was ſomething wanting, and
+<pb n="26" facs="tcp:96811:24"/>that the Work did want another Form; and this proceeds chiefly from the impreſſion which many had, and ſtill have, that the Fortifications were at perfection, contrary to expe<g ref="char:EOLhyphen"/>rience and matter of Fact in the late Wars. In this opi<g ref="char:EOLhyphen"/>nion they were confirmed by the curious ſearches, experi<g ref="char:EOLhyphen"/>ences and amendments, made by His Excellency <hi>Prince Mau<g ref="char:EOLhyphen"/>rice,</hi> and His Highneſs <hi>Friderick Henrick,</hi> Princes of <hi>Orange,</hi> of glorious Memory: Theſe indeed did in thoſe days re<g ref="char:EOLhyphen"/>form many things exceeding well; but the manner of At<g ref="char:EOLhyphen"/>tacquing being much altered ſince, the Fortifications ought alſo to be ſtrengthened againſt them. The Practitioners have onely joyned to the firſt Inventions, thoſe things which ſerve to eſtabliſh Fortifications upon ſure Rules, according to the Mathematicks, to which we ought not to be tied too cloſe; however it is neceſſary to take their aſſiſtance in this Science. The queſtion is not, Whether the Fortifica<g ref="char:EOLhyphen"/>tions do lie exactly according to the Rules of Mathematicks; but whether the Lines be well Flanqued, and all things or<g ref="char:EOLhyphen"/>dered for moſt conveniency. I confine my ſelf indeed to theſe Rules and Calculations, for ſo much as the firſt Ground-Lines do require; but upon theſe I make my Obſervations afterwards: ſo that my Work receives no ſmall benefit from thence, by reaſon of the firm and well-contrived Flanques, and the giving of little advantage and place to the Enemy to erect his Batteries againſt them.</p>
+                  <p>Many places (though well Fortified) are alſo loſt in a ſhort time, for want of skilfull Officers and Governours. For although a man had the beſt Sword he could wiſh for, and yet did not know how to uſe it for his advantage, the worſt would be as good for him as the beſt. Let the beſt Fortreſs be defended by a Governour, who knows it not, that Fortreſs ſhall be gained ſooner than a mean place Commanded by an experienced Officer. This hath been ſufficiently made good in theſe late Wars, which al<g ref="char:EOLhyphen"/>ſo Hiſtories do teſtifie abundantly. For, Retrenchments, Cuts, Counter-approaches, Counter-mines, beſides the ordering of Sallies at due times; as alſo the managing of Fire-works, con<g ref="char:EOLhyphen"/>trived by an expert perſon and skilfull Architect, are all very advantagious for Places, and detain the Enemy long. And yet they cannot well be known, before there is Attacque made; and then they may eaſily be ſo ordered, as to be made
+<pb n="27" facs="tcp:96811:24"/>more advantagious for the Enemy, then for the Place it ſelf: Hereof there are examples enough, and theſe Works can<g ref="char:EOLhyphen"/>not have a good ſucceſs, unleſs they be directed by a skil<g ref="char:EOLhyphen"/>full Architect, who has not onely a perfect knowledge in For<g ref="char:EOLhyphen"/>tification, but underſtands alſo the power of Artillery and Fire-works, as alſo the manner of managing them, and how Mines ought to be made upon all occaſions. And this I think ſufficient for the deſigning of Ground-lines, and have deſcribed onely three Figures more of three Regular Hexa<g ref="char:EOLhyphen"/>gones Fortified; ſee <hi>Num. IIII.</hi> one of them, after the <hi>great Royal,</hi> whoſe exterior Polygone is 100 ⓪; another after the <hi>mean Royal,</hi> whoſe exterior Polygone is 90 ⓪; and a third after the <hi>little Royal,</hi> the exterior Polygone being 80 ⓪.</p>
+                  <div type="note">
+                     <head>NOTE.</head>
+                     <p>No body is confined to theſe lengths of Polygones, but they may be taken ſhorter or longer; onely care muſt be had, that the Lines of Defence be not too long.</p>
+                     <p>The lengths of the Lines of theſe three Demy-Hexagones are of ſeveral Quantities; <hi>viz.</hi> the firſt, whoſe outward Po<g ref="char:EOLhyphen"/>lygone is 80.35 ②, and is equal to the Modern Poly<g ref="char:EOLhyphen"/>gones of an Hexagone, according to <hi>Fryday:</hi> the ſecond is of 90 ⓪: the exterior Polygones of the third are of 100 Rods, and the proportion of the Courtines to the Faces (which is to be underſtood in the firſt deſign, which after<g ref="char:EOLhyphen"/>wards is altered) <hi>Seſquialter,</hi> or as 3 to 2.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="28" facs="tcp:96811:25"/>
+                  <head>Lengths of the Lines according to the firſt Calculation.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="2" cols="3">
+                              <hi>Lengths of the Lines after the firſt manner, where the outward Polygone</hi> C D <hi>is always</hi> 80.35 <hi>Rod in length, in a Regular Hexagone.</hi>
+                           </cell>
+                           <cell rows="2">
+                              <hi>Lengths of Lines af<g ref="char:EOLhyphen"/>ter the ſecond man<g ref="char:EOLhyphen"/>ner, where the out ward Polygone is always</hi> 90 <hi>Rods long, in a Regular Hexagone.</hi>
+                           </cell>
+                           <cell rows="2">
+                              <hi>The outward Polygone be<g ref="char:EOLhyphen"/>ing</hi> 100 <hi>Rod, in a Hexa<g ref="char:EOLhyphen"/>gone.</hi>
+                           </cell>
+                           <cell cols="3">
+                              <hi>Lengths of the Lines, after my alteration, in an Hexa<g ref="char:EOLhyphen"/>gone, as followeth:</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The I. manner</cell>
+                           <cell>The II. manner</cell>
+                           <cell>The III. manner</cell>
+                        </row>
+                        <row>
+                           <cell>The Courtine</cell>
+                           <cell>
+                              <hi>F I</hi>
+                           </cell>
+                           <cell>36.00</cell>
+                           <cell>40.44</cell>
+                           <cell>44.82</cell>
+                           <cell>29</cell>
+                           <cell>30</cell>
+                           <cell>33</cell>
+                        </row>
+                        <row>
+                           <cell>Face</cell>
+                           <cell>
+                              <hi>C M</hi>
+                           </cell>
+                           <cell>24.00</cell>
+                           <cell>26.88</cell>
+                           <cell>29.86</cell>
+                           <cell cols="3">the ſame.</cell>
+                        </row>
+                        <row>
+                           <cell>Gorge</cell>
+                           <cell>
+                              <hi>G F</hi>
+                           </cell>
+                           <cell>11.36</cell>
+                           <cell>12.72</cell>
+                           <cell>14.43</cell>
+                           <cell>14</cell>
+                           <cell>17</cell>
+                           <cell>19</cell>
+                        </row>
+                        <row>
+                           <cell>Capital</cell>
+                           <cell>
+                              <hi>G C</hi>
+                           </cell>
+                           <cell>21.26</cell>
+                           <cell>24.20</cell>
+                           <cell>26.89</cell>
+                           <cell cols="3">the ſame.</cell>
+                        </row>
+                        <row>
+                           <cell>Fanque</cell>
+                           <cell>
+                              <hi>F M</hi>
+                           </cell>
+                           <cell>9.54</cell>
+                           <cell>10.68</cell>
+                           <cell>11.87</cell>
+                           <cell>11</cell>
+                           <cell>12</cell>
+                           <cell>13.5</cell>
+                        </row>
+                        <row>
+                           <cell>Second Flanque</cell>
+                           <cell>
+                              <hi>F N</hi>
+                           </cell>
+                           <cell>12.98</cell>
+                           <cell>14.53</cell>
+                           <cell>16.16</cell>
+                           <cell>8.5</cell>
+                           <cell>10</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>Line of De<g ref="char:EOLhyphen"/>fence <hi>Fichante</hi>
+                           </cell>
+                           <cell>
+                              <hi>C I</hi>
+                           </cell>
+                           <cell>61.11</cell>
+                           <cell>68.44</cell>
+                           <cell>76.05</cell>
+                           <cell>58</cell>
+                           <cell>63.5</cell>
+                           <cell>69</cell>
+                        </row>
+                        <row>
+                           <cell>Interior Poly<g ref="char:EOLhyphen"/>gone</cell>
+                           <cell>
+                              <hi>G L</hi>
+                           </cell>
+                           <cell>58.73</cell>
+                           <cell>65.89</cell>
+                           <cell>73.09</cell>
+                           <cell cols="3">the ſame.</cell>
+                        </row>
+                        <row>
+                           <cell>Diſtance of Polygones</cell>
+                           <cell>
+                              <hi>F E</hi>
+                           </cell>
+                           <cell>18.72</cell>
+                           <cell>20.96</cell>
+                           <cell>23.29</cell>
+                           <cell cols="3">the ſame.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <figure>
+                     <figDesc>three fortifications rendered from above and in profile</figDesc>
+                     <head>Num. 4.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>Profil voor die Flanc</cell>
+                              <cell>35 <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>oet h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ogh die vierde flanc</cell>
+                              <cell>Linea Horizontalis</cell>
+                           </row>
+                           <row>
+                              <cell>CD. die B<gap reason="symbol" resp="#UOM" extent="1 letter">
+                                    <desc>〈☐〉</desc>
+                                 </gap>ytenſte Poligone 80.35 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> nae die I Maniere</cell>
+                              <cell>CD. 90 <gap reason="symbol" resp="#UOM" extent="1 letter">
+                                    <desc>〈☐〉</desc>
+                                 </gap> nae due II manier</cell>
+                              <cell>CD 100 <gap reason="symbol" resp="#UOM" extent="1 letter">
+                                    <desc>〈☐〉</desc>
+                                 </gap> nae die III manie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>Maete van 100 Roedon voor deſe drie Figuren ende is e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n maete voort profil der flancquen de roede voor een voet genoomen</cell>
+                              <cell> </cell>
+                              <cell>Maete van 25 Roede vort Profyl der Linie AB</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </figure>
+                  <p>Thus I finiſh my Diſcourſe, as concerning the Ground-lines of my Fortification, as well of the Inworks as of the Outworks. Now I come to the Profiles, and ſhall firſt treat of thoſe that muſt be made in wet places, where the Ditches are full of water: And firſt of all,</p>
+               </div>
+               <div type="section">
+                  <head>Of the Walls of the great Strong-Holds.</head>
+                  <p>THe Walls ought not to be too high, nor too low: For when they are very high, the Moat can hardly be defended from them; and the nearer the Enemy getteth under them, the more he is ſheltered. They have alſo this fault, that they are very chargeable; for they ought alſo to have a thickneſs proportionable to their height; and the thick<g ref="char:EOLhyphen"/>er the Walls be, the better they may be Undermined, and the Mines that are made in them, do better Execution than in leſſer Walls; for the more the Powder is incloſed, and
+<pb n="30" facs="tcp:96811:28"/>the more it ſindeth reſiſtance, the greater force it hath, which is evident. Some are of opinion, That the Walls ought to be of ſuch a height, as to cover the Houſes from thoſe Canon-ſhots that come from without: which is ridi<g ref="char:EOLhyphen"/>culous: For although Walls were made ſo high, that no houſes might be ſeen; yet by all this we cannot hinder the ſhots from flying through the Houſes; neither are the Mortar-pieces hindred by it, which do the moſt hurt to houſes; beſides that, I being Beſieged, could rather wiſh, that the Enemy would buſie himſelf with ſhooting through the houſes, than againſt the Wall, in caſe it were a Fron<g ref="char:EOLhyphen"/>tier-town, where more Souldiers lodge, than Citizens; for this ſhooting through the houſes is onely to frighten the Inhabi<g ref="char:EOLhyphen"/>tants or Citizens, to compel them the ſooner to compoſiti<g ref="char:EOLhyphen"/>on. But Souldiers count this their paſtime: they had rather that the tyles and laths ſhould flie from the houſes, than that the earth ſhould be torn as raggs from the Parapet. To ſhew that the high Walls cannot hinder this nevertheleſs, See <hi>Fig.</hi> 6. <hi>Numb. V.</hi> Let there be a Battery by <hi>A,</hi> from whence out of the Canon <hi>A</hi> is made the ſhot <hi>A B F,</hi> ſo that it go<g ref="char:EOLhyphen"/>eth juſt over the Parapet of the Wall; this ſhot offendeth the roof of the houſes more or leſs according as the Wall is low or high; as is ſeen by the ſhot <hi>A C.</hi> Suppoſe the Wall to be as high again as <hi>B C,</hi> and that the ſhot be <hi>A C G,</hi> this goeth indeed far over the houſes; but let the Canon <hi>D</hi> be elevated ſome degrees, and it will make the ſhot <hi>D E H,</hi> againſt which the height of the Wall availeth nothing, al<g ref="char:EOLhyphen"/>though it were five times higher; for the Bullet cometh down with a Circular-line. It might be ſaid, That the Canon would carry the Bullet over and beyond the City: which is true, in caſe the Piece ſtandeth near by it; but it can be placed further off, at a convenient diſtance, which is eaſily found by a good Canoneer: which I intend to ſhew clearly in my <hi>Treatiſe of Artillery,</hi> which, God permitting, I ſhall commu<g ref="char:EOLhyphen"/>nicate to the Lovers of this Art. Such Pieces may be pla<g ref="char:EOLhyphen"/>ced here and there in the Fields, or even in the Quarters, where they pleaſe, without making any Beds for them, and ſo be uſed; for they ought to ſtand without the true Line or ordinary Canon-ſhot. Beſides that the houſes may be troubled after this manner by the Canon; the ſame may be done more conveniently by Fire-Mortars, out of which Gra<g ref="char:EOLhyphen"/>nadoes,
+<pb facs="tcp:96811:28"/>
+                     <pb facs="tcp:96811:29"/>
+                     <figure>
+                        <figDesc>several images of fortifications</figDesc>
+                        <head>Num. V.</head>
+                        <figure>
+                           <head>Fig. 8.</head>
+                           <figDesc>portion of fortification rendered in profile</figDesc>
+                           <p>Profil van de geretireerde Flancken</p>
+                           <p>Flanck vande Conter gùarde</p>
+                           <p>Face</p>
+                           <p>Fla<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap>
+                           </p>
+                           <p>Raù<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>llÿn ſynde vaſt aen de contra guarde</p>
+                           <p>Laeſte geretireerde Flanc</p>
+                           <p>t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>eede Flanc</p>
+                           <p>Horizont</p>
+                           <p> Eerſte ver laegerde Flanc van den Grooten wal</p>
+                           <p>Fouſebraies Flanck</p>
+                           <p>Maete van. go. voeten voor die Flanck</p>
+                        </figure>
+                        <figure>
+                           <head>Fig. 7</head>
+                           <figDesc>angles of defensive cannon fire</figDesc>
+                        </figure>
+                        <figure>
+                           <head> Fig. 6</head>
+                           <figDesc>angles of attackers' cannon fire</figDesc>
+                        </figure>
+                        <figure>
+                           <head>Fig. 9.</head>
+                           <figDesc>portion of fortification rendered in profile</figDesc>
+                        </figure>
+                        <figure>
+                           <head>Fig 10</head>
+                           <figDesc>schematics of portion of fortification wall</figDesc>
+                        </figure>
+                        <figure>
+                           <head>Fig. 11.</head>
+                           <figDesc>portion of fortification rendered in profile</figDesc>
+                        </figure>
+                        <figure>
+                           <head>Fig. 12.</head>
+                           <figDesc>portion of fortification rendered in profile</figDesc>
+                        </figure>
+                     </figure>
+                     <pb facs="tcp:96811:29"/>
+                     <pb facs="tcp:96811:30"/>
+                     <pb n="31" facs="tcp:96811:30"/>
+and Fire-balls are caſt; as may be ſeen by the <hi>F I.</hi> In caſe the Walls be too low, the Enemy can heighten the outward Batteries, from whence he may enfile the Wall of the Fortreſs. It is true indeed, That the Ca<g ref="char:EOLhyphen"/>non or Muſquet-ſhots, the nearer they are ſhot the Horizon, the more they ſweep and clear the ſame, and the greater Execution they do over the Fields againſt the Aſſaulters: For a ſhot coming from aloſt, can hit the Horizon but in one place; whereas contrariwiſe a ſhot being made about the height of a man parallel with the Horizon, doth ſweep the ſame off continually; as is ſeen in the <hi>Fig.</hi> 7. <hi>Numb. V.</hi> where the ſhot made by the Muſqueteer 4, ſtanding at the top of the high Wall, hitteth and ſinketh into the Horizon but in one place, as in 1: but the Muſqueteer ſtanding in the Fauſſe-bray <hi>A,</hi> ſhooteth the Line 3 2 6, parallel with his height; whence it is manifeſt, that in ſuch manner it has a greater effect. To help theſe deficiencies, I betake my ſelf to mediocrity, that is, to a mean height, and make the Wall in my great Fortification with Parapet, and all from 18 to 24 foot high, and the upper breadth of it, not reckoning the Parapet, as much as a Demy-Canon, having diſcharged an ordinary load, will run back. I take it from 20 to 30 foot broad, the Baſe is regulated according to the ſloping of the Wall: but I do not make my Walls alike every where, but make the Profiles lighter or ſtronger according as the part is; for I make the Profiles of the Faces of Bulworks much lighter, than thoſe of the Courtines or Flanques, and that with great reaſon, as I ſhall ſhew in its due place.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Faces of Bulworks.</head>
+                  <p>THe Faces are the weakeſt parts of the Fortification, ſee<g ref="char:EOLhyphen"/>ing they lie neareſt to the Enemy, and cannot defend themſelves; but their Defence muſt come from the next ſituated Flanques, which are made for that purpoſe. The Faces are always firſt Attacqued by the Enemy, unleſs the Courtines be too long. When the Enemy is paſt the Moat, he Undermineth this part, to make a Breach fit for an Aſ<g ref="char:EOLhyphen"/>ſault. To prevent this, as far as it is poſſible, there is no better remedy, than to hinder the coming over of the Gallery
+<pb n="32" facs="tcp:96811:31"/>by well ordered Flanques: But being weakened by time, and the Enemy bringing, as it were with leaden ſhoes, his Work as far as to the Wall of the Faces; then it is time to know the way of making Counter-mines in wet places: for where the Moats are dry, there is made another kind of Attacque. To make theſe Counter-mines very haſtily ready, as it ought to be done, the Wall of the Faces muſt be no thicker than onely to be Canon-proof, and that there be onely place for ſome Canon, to be uſed there, when occaſion requires. For in caſe it be very thick, the Miners can the more ſecurely accompliſh their work, and the Mines do greater execution than otherwiſe. The Canon which is placed upon the Fa<g ref="char:EOLhyphen"/>ces, is commonly ſet upon the point of the Bulwork, where the Lines meet; and where this is done, there is after this manner place enough at the top of the Wall near the Point of the Bulwork, though the Wall be very thin. I make it in my great Fortifications from 16 to 24 foot broad, to be reckoned from the Parapet, whoſe top or ſurface I extend to the breadth of from 12, to 18 foot.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Flanques.</head>
+                  <p>I Make the Wall of this part of ſeveral heights, ſee <hi>Num. II.</hi> I divide firſt the Flanque 5, 4 into two equally, as in 8; then I draw from ⅓ of the oppoſite Face the right Line <hi>A</hi> 6, 8, 7, by the Point 8, ſo long, till it touch the Perpen<g ref="char:EOLhyphen"/>dicular upon <hi>A,</hi> 9 as 9, 7. This done, the Lines of the re<g ref="char:EOLhyphen"/>tired Flanque are made. The Profile of the Flanque I de<g ref="char:EOLhyphen"/>figne thus, following the <hi>Fig.</hi> 8. <hi>Numb. V.</hi> Let here the Line <hi>K, H, G, D, A</hi> be taken for Horizontal, beginning from <hi>A,</hi> which is the inner brink of the Moat; I mark from <hi>A</hi> to <hi>B,</hi> 5 or 6 foot for the berme; from <hi>B</hi> to <hi>B,</hi> 24 foot, or ſo thick as I deſire to have the Baſe of the Parapet of the Fauſſe-bray; from <hi>B</hi> I dig under the Horizon 2, 3 or 4 foot, according as the water ſtandeth high or low in the Ditches. At this depth I make an even place from <hi>B</hi> to <hi>D,</hi> 30 or 35 foot broad, fit for the Canon or Muſqueteers. Before this place I or<g ref="char:EOLhyphen"/>dain the Parapet of the Fauſſe-bray, 7 or 9 foot high, as from <hi>B</hi> to <hi>L:</hi> in caſe one would lodge Muſqueteers there, Benches are made behind, and beſides a convenient form is
+<pb n="33" facs="tcp:96811:31"/>given to the Parapet; then the Flanque of the Fauſſe-bray is made, which I make as low, as the place will permit, yea ſo deep, that the Canon-ſhots are even with the Horizontal Line, and lower when the Moats be dry. After this I meaſure from <hi>D</hi> to <hi>E</hi> 27 foot, from <hi>E,</hi> I draw a Perpen<g ref="char:EOLhyphen"/>dicular <hi>E,</hi> 8 foot high from the Horizon. At this height I make the firſt Flanque of the great Wall, with its Parapet of 8 foot high, the breadth, as need requireth; as is ſeen clearly in the Figure: this place or Bedding for the Canon is 10 foot higher than the lowermoſt. After the ſame man<g ref="char:EOLhyphen"/>ner I proceed with the laſt, ſecond and third Flanques: But obſerve always, that one place with its Parapet may come ſo much lower than th'other, as that the ſhots coming from the one or other, be not interrupted; and the ſmoak and blow of the upper Canon do not much trouble thoſe, that are in the lower Flanques. But for theſe inconveniencies, I ſhall pre<g ref="char:EOLhyphen"/>ſcribe ſufficient remedies hereafter.</p>
+                  <p>There are many more Conſiderations, required by the pla<g ref="char:EOLhyphen"/>ces and ſituations, which I leave to the underſtanding Ar<g ref="char:EOLhyphen"/>chitect. The Figure 8 ſheweth the particularities ſomething near. Againſt theſe raiſed fourfold Flanques, one might ob<g ref="char:EOLhyphen"/>ject and ſay, That the Canon ſtanding upon the two hinder<g ref="char:EOLhyphen"/>moſt places, being Diſcharged, would let fall its ſtops, and Fire into the two foremoſt, and kindle the Powder, which is uſed for the Artillery ſtanding below, and ſo make dumb the Canoneers that are ordered to be below. Concerning the ſtops, I have ſeen many a time, and obſerved, that they flie 20 or 30 Rod from the mouth of the Pieces, eſpecial<g ref="char:EOLhyphen"/>ly being wrapped cloſe together, and ſometimes much further; ſo I did not ſee where they fell. Here it is to be obſerved, That thoſe Pieces that ſtand upon the laſt and higheſt Flanque, are diſtant but 13 Rod from the firſt or Fauſſe-brays Parapet, from whence it appears, that ſuch ſtops can do no harm: Put the caſe it were ſo, yet this obſtacle cannot hinder the advantage, which I reap by theſe places; for in time of Attacques, I make in the Courtines little hou<g ref="char:EOLhyphen"/>ſes ſupported with Wood, like Mines, wherein the Powder being in Casks, and other things neceſſary for the great Guns are put. Thoſe Pieces that are Charged and Primed, I co<g ref="char:EOLhyphen"/>ver with a ſmall Leaden Plate, till they are to be Diſchar<g ref="char:EOLhyphen"/>ged. It is alſo to be remembred, That all the Pieces of theſe
+<pb n="34" facs="tcp:96811:32"/>Flanques muſt not be diſcharged at once; but firſt from the uppermoſt or lowermoſt, and then from the others; and thoſe in the lower Flanques may be advertiſed to retire them<g ref="char:EOLhyphen"/>ſelves into the ſaid little Houſes, or in the entry of the raiſed Flanque, in caſe this precious Muſick do too much offend their ears.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Moats.</head>
+                  <p>THere are two kinds of Moats, <hi>viz.</hi> Wet and Dry. Of the Dry I ſhall ſpeak afterwards, becauſe they require another kind of Proſile; but now onely of the Wet Moats. What they ſerve, and are made for, every one knoweth: Concern<g ref="char:EOLhyphen"/>ing their faſhion and making, I give them a convenient wide<g ref="char:EOLhyphen"/>neſs, yet according to the nature of places, broader or nar<g ref="char:EOLhyphen"/>rower: where there is good Ground, I make them ordina<g ref="char:EOLhyphen"/>ry as broad, as the length of the Flanque, which falleth Per<g ref="char:EOLhyphen"/>pendicular upon the Courtine, or 10 Rods; and as deep, as I have need of earth for the Wall. He who deſires to cal<g ref="char:EOLhyphen"/>culate, may caſt up their depth according to the Profiles; I eſteem the deepeſt for the beſt, as well in dry as wet pla<g ref="char:EOLhyphen"/>ces. To deſign then the Ground-lines of the Moats, I draw Parallel-lines with the Faces, at ſuch a diſtance, as their breadth ſhould be; and where the Parallel-lines interſect one another (which in Regular places is before the midſt of the Cour<g ref="char:EOLhyphen"/>tines, and Bulwork-points) there are the extremities of the Ground-lines; as is ſeen in the Figures <hi>Numb. III.</hi> and 4. Juſt before the Bulworks-point I make the circular Ark, 1, 2, 3, at the diſtance of the breadth of the Moat; ſee the Figure, <hi>Num. II.</hi> by <hi>Y.</hi> And this is ſufficient as concerning the wet Moats.</p>
+               </div>
+               <div type="section">
+                  <head>The Conſtruction of the Profile of the Walls for Ravelins, Counter-guards, Hidden Ways, and what dependeth on it.</head>
+                  <p>TThe Walls of the Ravelins joyning to the Counter<g ref="char:EOLhyphen"/>guards, I make ſomething higher and ſtronger; and thoſe of the Counter-guards, lower and weaker. Likewiſe thoſe of the Ravelin before the Counter-guard, ſtill ſome<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:96811:32"/>
+                     <pb facs="tcp:96811:33"/>
+                     <figure>
+                        <figDesc>several portions of fortification in profile</figDesc>
+                        <head>Num VI</head>
+                        <p>Fig 8</p>
+                        <p>Maete vppr deſe vier profylen van. 110 voeten</p>
+                        <figure>
+                           <head>Profile van die linie KW in die plaete Num. 4 nae die 111. maniere</head>
+                           <p>Groote wall van de Coúrtine</p>
+                           <p>groote graſte</p>
+                           <p>Binnenſte Rauelli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> wall</p>
+                        </figure>
+                        <figure>
+                           <head>Profil van die linie AB. indie plate Num: 4 nae die 111 maniere</head>
+                           <p>esplanaede</p>
+                           <p>Buytenste rauellyns wall</p>
+                        </figure>
+                        <figure>
+                           <head>Profil met een drooge graſte</head>
+                           <p>Groote wall</p>
+                           <p>Horizont Linie</p>
+                           <p>Foúſebreÿ</p>
+                           <p>Wech der ronden</p>
+                           <p>Binnenſte Raúellins profil</p>
+                           <p>Horizont</p>
+                        </figure>
+                        <figure>
+                           <head>Een ander profil met drooge graften</head>
+                           <p>Horizont linie</p>
+                           <p>Cúnette</p>
+                           <p>Profil van die Contra gúarde</p>
+                        </figure>
+                        <figure>
+                           <head>Perspectif</head>
+                        </figure>
+                     </figure>
+                     <pb facs="tcp:96811:33"/>
+                     <pb facs="tcp:96811:34"/>
+                     <pb n="35" facs="tcp:96811:34"/>weaker and lower, and I order the Profiles as follows: The great Wall with its Parapet being 20 foot high, I make the joyning Ravelin with its Parapet 13 foot high; the top of the Wall, to be meaſured from the Parapet 20 foot broad; the Surface of the Parapet 12 or 15 foot, and the reſt proportionally; the Wall of the Counter-guard with its Parapet is made 11 foot high; the top of it 16 or 18 foot broad, to be reckoned from the Parapet; the top of the Parapet from 10 to 15 foot; the reſt accordingly. The Wall of the uttermoſt Ravelin with the Parapet I make 9½ foot high; the upper breadth of the Parapet alſo from 10 to 15 foot; the top of the Wall from 12 to 16 foot; the Ditches from 50 to 60 foot wide, and the deeper the better; the Hidden Way from 15 to 25 foot; its Parapet 6 foot high; the ſloping (or Eſplanade) is regulated after the Wall of the Counter-guard. To have a clearer declaration of this, ſee the Profiles <hi>Fig.</hi> 8. which are both made after the <hi>Scale</hi> ad<g ref="char:EOLhyphen"/>joyned; and the uppermoſt ſheweth the Profile of the Wall of the Courtines, with the Moat before it; beſides the whole Capital-line with the Profile of the innermoſt Ravelin, or Counter-Guards-Ravelin and its Ditches, which continueth by the letter <hi>A, A;</hi> the remaining ſpace is the Capital of the outmoſt Ravelin with its Profile and Ditches, as alſo its Hid<g ref="char:EOLhyphen"/>den Way and Eſplanade, which in the Print <hi>Numb. IIII.</hi> by the <hi>III.</hi> manner is ſhewed. The lowermoſt Profile ſhew<g ref="char:EOLhyphen"/>eth the thickneſs of the Wall upon the Faces, the wideneſs of the Moat, the diſtance of the Counter-guards Wall, with the Profile of it; and the wideneſs of the ſame Ditch, which continueth by the letters <hi>B, B,</hi> on which the Hidden Way and Eſplanade is alſo deſcribed. This is enough as touching the Profiles of the wet Moats, for ſuch as are skill'd in this Art. Where dry Moats are, I make quite other Profiles, for they are to be deſigned according to the nature of pla<g ref="char:EOLhyphen"/>ces. In the Print <hi>Numb. VI.</hi> there are deſcribed Profiles for two ſeveral dry Moats. In the Moat of the firſt by the let<g ref="char:EOLhyphen"/>ter <hi>A</hi> is the <hi>Cunette,</hi> or falſe Moat, ſtrengthened with a thin Parapet and Paliſadoes, which ſerveth for Enterpriſes, and is alſo very good in Sieges; whoſe uſe I ſhall deſcribe in the ſecond part of Defences and Attacques. The Ditches of the Counter-guards and Ravelins, may alſo be ſunk to the half, or above one third part, to be meaſured from the
+<pb n="36" facs="tcp:96811:35"/>VVall, and ſtrengthened with Paliſadoes againſt Invaſions, as may be obſerved by the letters <hi>C</hi> and <hi>D:</hi> the inward ſloping of the great dry Moat muſt be raiſed of a Brick-wall; as is ſeen by <hi>E E.</hi> Theſe Brick-walls muſt be made thick and high, according to the nature of places, and the Princes or Lords purſe. At the top of theſe Walls, there is plant<g ref="char:EOLhyphen"/>ed a Thorn-hedge, which is either bound, as by <hi>F</hi> and <hi>D;</hi> or elſe planted wild, and left to grow cloſe through one another, as by <hi>C</hi> and <hi>G.</hi> Theſe are alſo very good, for they make the Earth ſtand ſirm with their roots. The Profile <hi>A</hi> continueth with the letters <hi>H, H,</hi> where the cutting in of the two hidden Ways without Ditches are deſcribed. In the Architecture or Building of dry Profiles, there is requi<g ref="char:EOLhyphen"/>red great experience in the practice of War; for they muſt be made with great skill; and being ſo made, I prefer them before thoſe that are fill'd with water, of which I ſhall give reaſon in my Diſcourſe of the buſineſs of Defence.</p>
+                  <p>The Profile of the Retired Flanques is ſeen <hi>Numb. V. Fig.</hi> 8. according to its Scale. In the ſame Print is alſo ſeen a Bulwork with part of the Courtines on both ſides; as it ap<g ref="char:EOLhyphen"/>peareth from within <hi>Fig.</hi> 12. <hi>Numb. V. Fig.</hi> 11. is a Bulwork, looking againſt the Flanques, which Ground of two Bulworks is deſigned, <hi>Fig.</hi> 10. <hi>Fig.</hi> 9. is a perſpective of the Counter-guard, with its two Ravelins, <hi>viz.</hi> that which joyns to it, and the other, which after the manner of an Iſland lieth before it. In the Print <hi>Numb. VII.</hi> is ſeen the Perſpective of this whole Work. Firſt the Ground-lines of two Bulworks of an Hende<g ref="char:EOLhyphen"/>cagone according to the <hi>middle Royal,</hi> whoſe outward Polygone is 90 Rods, wherein the diſpoſition of the whole VVork is perfectly ſeen, with that of the Counter-guard, beſides their Ravelins and Counter-ſcarp. In the ſecond is ſeen, how the whole VVork lieth in Profile; yet this forelying Coun<g ref="char:EOLhyphen"/>ter-guard hath another diſpoſition, and is without Flanques of its own; but it is Flanqued from the joyning Ravelin, and from that, which lieth in the Iſland. This manner of Coun<g ref="char:EOLhyphen"/>ter-guards is alſo very good, and doth not take in much ſpace. In the Figures all this is clearly ſeen, and therefore it requires no further explanation for the underſtanding thereof. I have yet many other ſpeculations and particularities, concerning theſe manners of Fortifying; which I ſhall keep to my ſelf, till I find a fit opportunity to put them in practice. If God give
+<pb facs="tcp:96811:35"/>
+                     <pb facs="tcp:96811:36"/>
+                     <figure>
+                        <figDesc>overhead schematics of fortification</figDesc>
+                        <head>Num. VIII</head>
+                        <p>Mate van 90 Ry<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lantse Roeden</p>
+                     </figure>
+                     <pb facs="tcp:96811:36"/>
+                     <pb facs="tcp:96811:37"/>
+                     <pb n="37" facs="tcp:96811:37"/>me health, till I bring to light the other parts (<hi>viz.</hi> of Attacques and Defence, of Undermining, Counter-mining, Fire-works and Artillery, when it may be done moſt conveniently) then the advantages of this manner of Fortifying will be better con<g ref="char:EOLhyphen"/>ceived and underſtood; for the quality of every part of a Forti<g ref="char:EOLhyphen"/>fication ſhall there be declared one by one ſeparately and di<g ref="char:EOLhyphen"/>ſtinctly.</p>
+               </div>
+               <div type="section">
+                  <head>Of Irregular Fortreſſes.</head>
+                  <p>I Shall ſay onely this, That it would be too long to ſhew here particularly the manner of working, which I eſteem as need<g ref="char:EOLhyphen"/>leſs, ſeeing that Irregular Fortreſſes are made up out of parts of Regular ones: The calculation thereof may be done after the Modern practice, and the parts afterwards reformed according to my way; as hath been ſhewed in the Regular. There are many Engineers, who think it an Art to Fortifie any places altogether Irregular, although they might well enough alter them. I do not glory in this; but am very well content, when I meet with ſuch an unfit Figure, to reform it after the Regular, as near as the place will permit. A Regular place, beſides that it hath its De<g ref="char:EOLhyphen"/>fence more equal, is alſo the fitter, and taketh in with the ſame Lines more ſpace, which I prove thus: Let there be a Right<g ref="char:EOLhyphen"/>angled Square, each of whoſe ſides is 12 Rod, and the four together 48 Rod, whoſe content is 144 ſquare Rod: Let there be another Irregular Square or <hi>Rhomboides,</hi> having al<g ref="char:EOLhyphen"/>ſo four ſtreight Lines each of 12 Rod, that is, the four of 48 Rod; let this <hi>Rhomboides</hi> be made of two Equilateral Triangles, then the ſhorteſt Diameter is 12 Rod, and the longeſt 20 Rod, and 8 foot, whoſe content is therefore 124 ſquare Rods, and 8 ſquare Feet; From whence it appeareth, That the <hi>Rhomboides</hi> contain<g ref="char:EOLhyphen"/>eth 19 Rod, and 2 ſquare Feet leſs than the Quadrat; and the more the <hi>Rhomboide</hi> recedeth from Regularity, the leſs is the content of it, <hi>&amp;c.</hi> But this is true of Irregular Fortifications, That the Rules and Maxims of the Regular being known, the good or bad Form, as alſo the ſtrength or weakneſs dependeth wholly on the knowledge and experience of the Engineers, <hi>&amp;c.</hi>
+                  </p>
+                  <pb facs="tcp:96811:38"/>
+                  <pb n="37" facs="tcp:96811:38"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:96811:39"/>
+               <head>
+                  <hi>SOME QUESTIONS</hi> That might be moved concerning this manner of Fortifying; together with the Anſwers to the ſame: by which the uſe of this Work may be the better underſtood.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <div type="question">
+                     <head>Queſtion.</head>
+                     <p>FOr what are the Flanques not drawn Perpendicular or Right-angled upon the Courtine or inward Poly<g ref="char:EOLhyphen"/>gone, in this Way of Fortifying; but Right-angled upon the Line of Defence <hi>Secant:</hi> For it is eſteemed more graceful after this manner, and the Ground-lines may be found more eaſily by Calculation; it being alſo believed, that being thus made, they defend the Outworks the better?</p>
+                  </div>
+                  <div type="answer">
+                     <head>Anſwer.</head>
+                     <p>I Give this Obliquity to the Flanques for the Reaſons fol<g ref="char:EOLhyphen"/>lowing. See <hi>Numb. II.</hi> the Figure being Calculated and ſtated after the foregoing manner and proportion, or being mea<g ref="char:EOLhyphen"/>ſured in the Fields, the longeſt Defence-line would exceed a Muſquet-ſhot; whereas now the ſaid Line by this Obliquity is brought to its due length; whereby I reap this advantage, that with fewer Bulworks than the Modern do uſe, I can include a far greater ſpace. Examples have been before alledged. And with an <hi>Octogone</hi> of my great Fortification I do include as much place, wanting onely about half a Polygone, as the Modern do with an <hi>Hendecagone,</hi> or Fortreſs of Modern Bulworks; where<g ref="char:EOLhyphen"/>by ſo much charge is ſaved, and the Lines of Defence remain within Muſquet-ſhot. <hi>Item,</hi> By this Delineation, the Gorges gain on each ſide in length 8 Rods in an <hi>Hendecagone,</hi> whereby the Bulworks get the deſired opening at their entrance, which maketh place for the Retired Flanques, and affordeth con<g ref="char:EOLhyphen"/>veniency for the making Retrenchments ſpeedily and eaſily.
+<pb n="39" facs="tcp:96811:39"/>By this Obliquity the Flanques do likewiſe become alſo longer, and therefore fitter to lodge a competent number of Canon and Muſqueteers upon them. This Obliquity cauſeth alſo the Gun<g ref="char:EOLhyphen"/>holes not to ſtand Obliquely, and that the Moats are Right<g ref="char:EOLhyphen"/>angled and defended from the Flanques. And whereas they ſay, that the Perpendicular Flanques defend the Outworks the better, this doth not ſtand to reaſon; but it is known, that the Oblique ones do it better, ſeeing they come more flat againſt them, and the Outworks are better ſeen from the Ob<g ref="char:EOLhyphen"/>lique Flanques, when they are made after this manner, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <div type="question">
+                     <head>Queſtion.</head>
+                     <p>FOr what are there three Flanques and the great Wall, ſet at the top of one another, and yet below a Fauſſe<g ref="char:EOLhyphen"/>bray's Flanque; whereas nevertheleſs the Canon being placed thus above one another, the uppermoſt cannot be diſcharged conveniently, without prejudice to thoſe that are in the lower Batteries. Beſides that, the flame coming out of the upper Canon, and falling upon the lower, might give Fire to them alſo ſooner than would be deſired?</p>
+                  </div>
+                  <div type="answer">
+                     <head>Anſwer.</head>
+                     <p>THeſe three or four Flanques, I make at the top of one another, not to plant them all full of Canon; but to fit the uppermoſt with Muſqueteers and <hi>Falconets,</hi> as occa<g ref="char:EOLhyphen"/>ſion requireth. But if need ſhould require, that I muſt have a ſtrong Counter-Battery upon the Flanques, or that much Canon muſt be there, to hinder the coming over of the Gal<g ref="char:EOLhyphen"/>leries: then put the caſe, that all four Flanques are ſill'd with Canon; what ſhould hinder me from uſing them at pleaſure, without endamaging the lower, or giving fire to the lower Canon before the due time, if I go to work af<g ref="char:EOLhyphen"/>ter the manner following? At one ſide of theſe Reti<g ref="char:EOLhyphen"/>red Flanques, I place a skilful perſon, either an Officer of the Artillery, or ſome other. This Officer, when they are upon Diſcharging, commandeth the men in the lower Flanques, to retire themſelves at the ſide of the Battery in<g ref="char:EOLhyphen"/>to the Way, by which the Canon is let into the Flanques,
+<pb n="40" facs="tcp:96811:40"/>till ſuch time as the uppermoſt have Diſcharged; which Shooting beginneth from the laſt Retired Flanque, where the longeſt and heavieſt Canon may moſt conveniently be uſed. When theſe have Diſcharged, they Charge preſently again, and then thoſe of the ſecond Retired Flanque give Fire; which being done, they alſo Charge again with all poſſible expedition: For thoſe that have Diſcharged (beginning from the hindermoſt) can<g ref="char:EOLhyphen"/>not be prejudiced by the following <hi>Canonadoes;</hi> and this con<g ref="char:EOLhyphen"/>tinueth, till the Flanque of the Fauſſe-brays (being the laſt to give Fire) hath alſo done. In this time the hindermoſt can have almoſt Charged and Levelled; ſo that after this manner one may orderly Charge and Diſcharge the Canon, as if it were a Band of Muſqueteers, without hindering or prejudicing another. Theſe Canon-ſhots are alternatively fa<g ref="char:EOLhyphen"/>voured by Muſquet-ſhots, coming from the ſecond Flanques; (where I would Lodge no Canon, except there were great need, for the reaſons before mentioned) as alſo from the ſe<g ref="char:EOLhyphen"/>cond Flanque of the Fauſſe-bray, and alſo from the half of the great Walls Flanque and Faces, <hi>&amp;c.</hi> Concerning what is objected, That the lower Canon might be kindled by the upper before its time; for this, no other remedy needs to be uſed, but to cover the Holes with a Plate of Lead, as they do in Ships. Now it may be conſidered, Whether it be eaſie or no, to bring a Gallery over a Moat, that is ſeconded by ſuch a Hail of Canon and Muſquet-ſhot.</p>
+                  </div>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <div type="question">
+                     <head>Queſtion.</head>
+                     <p>SInce here is mention of ſo many Canons, there muſt be great number of them, to furniſh one of theſe Fortreſ<g ref="char:EOLhyphen"/>ſes with Artillery: For beſides that the great Wall (or Royal Work) requireth much Canon, the Outwork ought to have part of it too, ſeeing it defendeth it ſelf, as well as the great Work, with Artillery and Muſquets; and according to the number of Gun-holes, there muſt upon the four heightned Flanques on each ſide of every Bulwork be at leaſt 20 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e<g ref="char:EOLhyphen"/>ces, which is 40 Pieces for each Bulwork; which in a For<g ref="char:EOLhyphen"/>treſs of ſeven Bulworks amounts to 208 Pieces, for the en<g ref="char:EOLhyphen"/>tire Fortreſs onely. Now in the Outworks there is by the joyning Half-moons of the Counter-guard, on each ſide place for 12, 13, or 14 Pieces: If it be 14, it is for every Cour<g ref="char:EOLhyphen"/>tine
+<pb n="41" facs="tcp:96811:40"/>28, which for the Counter-guard of an Heptagone comes to 196 Pieces of Artillery, and ſo the whole Work to 476; to which Ammunition being added proportionally, all other things neceſſary, the charge would be extraordinary.</p>
+                  </div>
+                  <div type="answer">
+                     <head>Anſwer.</head>
+                     <p>IN this my Fortification I want no more, or at leaſt very few more Canon, than in the Modern; which I prove thus: In a Modern Heptagone there muſt be at leaſt eight Pieces for every Bulwork, when a Siege is expected; namely 3 upon every Flanque, and two upon the Bulworks Point, that is 4 Demy-Canons, two <hi>Pelicans</hi> ſhooting a Bullet from 3 to 8 pound, and two half or whole <hi>Dragons</hi> as occaſion requireth. Where<g ref="char:EOLhyphen"/>unto are commonly joyned 4 or 6 whole Canon, to be uſed upon Counter-Batteries; theſe being reckoned together make up 56. It is an old cuſtome, to keep in Fortreſſes that are conſiderable, twice as many Pieces in the Arſenal, as are up<g ref="char:EOLhyphen"/>on the Wall, to fill up the places of thoſe that ſhall happen to be Diſmounted or to crack, or to become uſeleſs by any other accident; as alſo to be uſed upon the Crown, and Hornworks: This number is in all 188; which the Modern Engineers appoint in their Works. Theſe I diſtribute in my Fortification, when there is no Siege, after this manner: Up<g ref="char:EOLhyphen"/>on every middle Flanque of the great Wall two, and up<g ref="char:EOLhyphen"/>on every Bulworks-point two, which is 6 for every Bul<g ref="char:EOLhyphen"/>work, and ſo for the Royal Work 42: In the Counter<g ref="char:EOLhyphen"/>guard none are required, but however, in caſe one would Plant them there, there might be ſet near every joyning Half-moon, two, which maketh 4 for every Courtine, that is 28 for ſeven Courtines, in all 70 Pieces; and then the place is furniſhed round about with Artillery, as well for the Inworks as Outworks. But inſtead of lodging theſe 28 Pieces up<g ref="char:EOLhyphen"/>on the Flanques of the Counter-guards, I think it more con<g ref="char:EOLhyphen"/>venient to uſe them upon the next Ravelin, becauſe I keep there the outward Centries, or <hi>Cors de Guards,</hi> which do Flanque the Counter-guards from within, and hit the Ene<g ref="char:EOLhyphen"/>my from behind, in caſe he ſhould undertake to paſs the great Moat. But in time of Siege, I diſtribute my Canon quite otherwiſe, and do as follows. At the firſt coming on
+<pb n="42" facs="tcp:96811:41"/>or ſurrounding, I take my lighteſt Canon and place them upon the points of the Counter-guards, to keep off the Enemies Quarters, as far as it is poſſible; yet, the Quarters being clo<g ref="char:EOLhyphen"/>ſed, and I perceiving whereabout they open their Approaches, whether they bring on 2 or 3, although they make ſeldom more than two, and have ſometimes a third, onely for di<g ref="char:EOLhyphen"/>verſions ſake: Admit, they carry on two Approaches, by which they intend to Attacque two Bulworks; to promote theſe Approaches, it is needful for the Beſiegers to raiſe Bat<g ref="char:EOLhyphen"/>teries, under whoſe favour they may make their Labourers work with more ſurety. Againſt theſe Batteries I raiſe Coun<g ref="char:EOLhyphen"/>ter-batteries (that is, when they come near, within 150 or 200 Rod,) theſe Counter-batteries I can raiſe every where, as well in the outmoſt Ravelin before the Counter-guard, as upon the Faces of the Counter-guards themſelves, whereto I uſe ſome heavy Pieces: upon the other Bulworks or Out<g ref="char:EOLhyphen"/>works there is then little need of any Pieces, but onely of <hi>Falconets,</hi> or other ſmall Guns. Now the Beſiegers being after all difficulties, come ſo far with their Approaches, that they are ready to paſs the Ditch of the Counter-guards, then I uſe no where any Pieces more to defend the Outworks, but onely upon the Flanques of the Counter-guards, where in Fortreſſes according to the <hi>great Royal,</hi> might be uſed 14. Yet in caſe two Bulworks be Attacqued at once, the Ditches and Faces may alſo be defended by two oppoſite Flanques, upon which two there muſt then be 28 Pieces. If three Bul<g ref="char:EOLhyphen"/>works be Attacqued, there muſt be 42. Theſe Pieces I can always retire again from the Flanques into the joyning Ra<g ref="char:EOLhyphen"/>velin, and from thence into the Fauſſe-bray of the great Wall, and further upon the Flanques of the great Wall, which are oppoſite to the Faces Attacqued; and upon all occaſions there need be no more upon theſe Flanques than 14, ſeeing the Enemy cannot place any more againſt them with advantage, but 10, unleſs they come to ſtand one in anothers way. Suppoſe one would have 18 upon every Shoulder or Flanque, this would make 54 Canons for three Flanques, which being alſo trebled, the whole number amounts to 162. Whence it appeareth, That in my Fortification no more Ca<g ref="char:EOLhyphen"/>non is required than in the Modern; and one might in time of need very well make ſhift with a third part, that is with 54, in a Fortreſs of ſeven Bulworks, if a skilful Governour
+<pb n="43" facs="tcp:96811:41"/>had the management of it: But for want of ſuch men, the beſt Strong-Holds are ſoon loſt; For let a place be Fortified with as much providence as it will, in caſe he who Commands it, has no skill, it ſignifieth nothing.</p>
+                  </div>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <div type="question">
+                     <head>Queſtion.</head>
+                     <p>WHat may this way of Fortifying coſt more than the Modern, ſeeing they are far larger in their parts; and much more is ſpent for the retired Flanques, than for the ſimple ones, as well to make the Shooting-holes, as alſo the paved Batteries: The Wall of the great Work, or of the Fortreſs muſt alſo needs be ſomething higher, than that of the Modern, ſo it may command the better over the Wall of the Counter-guard; and with theſe Counter-guards much Field is alſo taken in, which is chargeable, in places where it muſt be bought from the Commonalty or Owners?</p>
+                  </div>
+                  <div type="answer">
+                     <head>Anſwer.</head>
+                     <p>THis Work being well conſidered, it will be found, that the charges differ little from the Modern: For I with my Pentagone take in as much or more place than the Mo<g ref="char:EOLhyphen"/>dern with an Hexagone; my Line of Defence <hi>Fichante</hi> re<g ref="char:EOLhyphen"/>maining ſtill within Muſquet-ſhot, whereby the charges of one whole Courtine and a Bulwork in a Pentagone are ſaved. Concerning the charges of the retired Flanques, againſt them I put the two Faces of the Modern Fauſſe-brays, which I do not make; as alſo the charges that are required for the dig<g ref="char:EOLhyphen"/>ging of the Moat before the Courtine, where in my Fortifi<g ref="char:EOLhyphen"/>cation out of that part of the Moat nothing near ſo much Earth is taken.</p>
+                     <div type="note">
+                        <head>N. B.</head>
+                        <p>It is not neceſſary, that theſe Flanques ſhould be brought preſently into this order round about the Fortreſs, when they are made. One may make up the firſt paved Flanque of the great Wall, which falleth upon the Ground-line, ſomething higher then uſually, and lay 2 or 3 Benches be<g ref="char:EOLhyphen"/>hind
+<pb n="44" facs="tcp:96811:42"/>the Parapet, and putting Paliſadoes at the top of the Parapet, which come to be ſo high as the great Wall; and being Beſieged, whilſt the Outworks are diſputed, there is time enough to bring all things into order.</p>
+                        <p>Concerning the great compaſs of the Counter-guards, the charges beſtowed that way are little, ſeeing in time of Peace, (as is ſaid before,) the incloſed Land and Wall, and all may ſerve for civil uſes as well, as if theſe Walls were not there at all: Beſides, that theſe being compared with the Modern Outworks, as Half-moons, Horn and Crown-works, <hi>&amp;c.</hi> as are about many Strong-Holds, it will be found, that theſe my Counter-guards do not incloſe ſo much place, nor do not coſt ſo much. It might be further ſaid, that theſe my Fortreſſes would require more men for Defence than the Modern: In order whereunto, it is to be conſidered, How the Garriſons ought to be ordered in time of an Attacque? I ſhall onely anſwer this, That the Outworks ought firſt to be Defended well; and to do that well in my Fortifications, no more men are required, than in one of the Modern, having but one Bulwork more than one of mine; for by my Me<g ref="char:EOLhyphen"/>thod, I include more place with fewer Bulworks. I ſhall onely tender this, That the Flanques being well furniſh<g ref="char:EOLhyphen"/>ed, the Fronts are eaſily defended; for herein conſiſteth the ſtrength of Fortreſſes: which may be compared with a man that hath ſtrong and long arms; it is evident, that ſuch a one can better defend himſelf, than another who hath ſhort and ſtiff arms. Thus I conclude this little Work, hoping that it will be acceptable to the Lovers; and ſtir them up, in caſe it do not pleaſe them, to bring to light ſomething better.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:96811:42"/>
+               <p>TO pleaſe thoſe who deſire to ſtudy Engineerſhip, I have added an Abridgment, which ſhews how all Calcula<g ref="char:EOLhyphen"/>tions neceſſary for this Science may be made with little pains, onely by Decimals, without being ſubject to the intricacies of Fractions; as alſo the moſt uſual manners of Working with eaſe, by Compaſſes, <hi>&amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>Arithmetique in Decimals.</head>
+                  <p>THis Calculation doth not differ from the ordinary Me<g ref="char:EOLhyphen"/>thod, onely in the underſtanding of the Signs of the Fractions, and how to place them rightly, which is as fol<g ref="char:EOLhyphen"/>lows:</p>
+                  <p>Firſt take a Rod, (which is the uſual meaſure of the Coun<g ref="char:EOLhyphen"/>trey where you are,) or what meaſure you pleaſe, and call that an Integer; this divide into ten equal parts, and take one part for a Foot; this Foot divide again into ten parts, and one of them take for an Inch; the Inch divide again into ten parts, and call one of them a Grain; the Grain divide again into ten, one of which call a firſt Scruple; and that divide again into ten, and let one of thoſe parts be called a ſecond Scruple; and ſo on to the tenth Scruple; which tenth Scruple is 1/10000000000 part of a Rod, and is ſo ſmall, that it cannot be compre<g ref="char:EOLhyphen"/>hended otherwiſe, than by underſtanding the following Signs:
+<list>
+                        <item>A Rod, or Integer, ⓪</item>
+                        <item>Foot, ①</item>
+                        <item>Inch, ②</item>
+                        <item>Grain, ③</item>
+                        <item>Firſt Scruple, ④</item>
+                        <item>Second Scruple, ⑤</item>
+                        <item>Third Scruple, ⑥</item>
+                        <item>Fourth Scruple, ⑦</item>
+                        <item>Fifth Scruple, ⑧</item>
+                        <item>Sixth Scruple, ⑨</item>
+                     </list>
+and ſo on to the Ninth Scruple.</p>
+               </div>
+               <div type="section">
+                  <head>Addition in Decimals.</head>
+                  <p>OBſerve here the ſame manner, as in the Addition of Inte<g ref="char:EOLhyphen"/>gers; but have a care, that the Signs of the Fractions of one ſort, do ſtand under one another; as Rods under Rods, Inches under Inches, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>THere are to be added 2 ⓪ Rods, 3 ① Feet, 4 ② Inches, 7 ③ Grains, 0 ④ Scrup′. 2 ⑤ Scrup″. 3 ⑥ Scrup‴. to Rods 89 ⓪ 2 ① 3 ② 4 ③; I place then Rods under Rods,
+<pb n="46" facs="tcp:96811:43"/>as 2 ⓪ under 89 ⓪, and the other Signs alſo under one ano<g ref="char:EOLhyphen"/>other; as may be ſeen <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap> and where the Signs want, fill up the places with 0, and put the laſt Signs of the Fracti<g ref="char:EOLhyphen"/>ons behind them in a crooked or round ſtroke; which ſhew<g ref="char:EOLhyphen"/>eth, how many places or kinds of Decimals there be, as is ſeen in the Example, and the Sum is 91. 581023 ⑥, that is, 91 Rods, 5 Foot, 8 Inches, 1 Grain, 0 Firſt Scruple, 2 Second Scruple, <hi>&amp;c.</hi> and the Sign of the Fractions being <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>, therefore ſix Figures are to be counted from the laſt towards the left hand; and ſo many kinds of Decimals there be.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Subſtraction in Decimals.</head>
+                  <p>PUt here alſo the Signs of one ſort under one another; and where they fail, fill up the place with 0.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>There are 56. 32 ② to be ſubſtracted from 982. 345 ③, therefore put 982. 345 ③, and 56. 32 ② underneath, ſo that Rods come to ſtand under Rods; ſo the remainder is 926. 025 ③, and ſo forth in all caſes, fill the pla<g ref="char:EOLhyphen"/>ces of the Signs with 0, where they are not.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Multiplication in Decimals.</head>
+                  <p>HEre follows alſo the common rule; but you muſt add the Signs of the Fractions together.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="47" facs="tcp:96811:43"/>
+                  <head>Diviſion in Decimals.</head>
+                  <p>THis is alſo done the ordinary way; but here the Sign of the Diviſor muſt be ſubſtracted from the Signs of the Dividend, or the Number to be divided: and in caſe the Num<g ref="char:EOLhyphen"/>ber to be divided, be leſs than that by which it muſt be di<g ref="char:EOLhyphen"/>vided, joyn ſo many 0 to it, till it come to be equal to it.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>THere are 5. 76 ② to be divided by 3482 ④; here the Diviſor is greater than the Dividend; therefore add ſo many 0 to it, till it come to be as great or greater; as here 0000 Cyphers, and there will be 5. 670000 ⑥, this divide by 3482 ④, as is uſual in common Diviſions; and put the Signs as <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap> here is ſeen, &amp; the Quotient is 165 ②; Now to know what kind of parts they be, ſubſtract the Signs of the Fra<g ref="char:EOLhyphen"/>ctions, as 4 from 6, and there remain<g ref="char:EOLhyphen"/>eth 2, and this 2 is the Sign of the Quotient, as may be ſeen; and this is a general way: There remain yet 772, of which if you deſire to have yet ſmaller parts; then put ſo many Cyphers behind it as you deſire.</p>
+                  </div>
+                  <div type="note">
+                     <head>NOTA.</head>
+                     <p>If you put one 0 behind it, or Multiply it by 10, that is all one; and by ſo doing it is brought to 10 leſſer parts, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Rule of Three in Decimals.</head>
+                  <p>THis is performed after the ſame manner, as in the Integers: and foraſmuch as it conſiſteth of Multiplying and Divi<g ref="char:EOLhyphen"/>ding, obſerve the foregoing Rules.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap> quotient.</p>
+                     <pb n="48" facs="tcp:96811:44"/>
+                     <p>The proof make thus: Say 7 ② giveth 116 ⓪, what then dos 3 ④ give? There ariſeth by Multiplication 348, to which adding 2 which remained, the whole is 350 ④; theſe divided by 7 ②, the Quotient 50 ②, and putting away the 0, as ſig<g ref="char:EOLhyphen"/>nifying nothing, there remaineth the ſign ①, and then the Quotient is as above 5 ①, and the Work is right.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>To extract the Square Root in Decimals.</head>
+                  <p>TO ſind the Root of a Number given, even in its ſmaller parts, put after the Number given towards the right hand, as often two Cyphers, or 00, as you deſire parts, and half the Number of the Cyphers is the Sign of the Fractions that belongs to the Root; as may be ſeen in the Example.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>20345, Out of this Number I deſire to have the Square Root, to the ſecond Scruple, or nearer; therefore I put as often two Cyphers to it, as I deſire to have parts, as here 4; wherefore I joyn eight Cyphers to it, and work, as is uſual in Integers; as may be ſeen here beneath.</p>
+                     <p>
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </p>
+                     <figure>
+                        <figDesc>various geometric shapes</figDesc>
+                        <head>Num. VIII</head>
+                     </figure>
+                     <pb facs="tcp:96811:45"/>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:96811:46"/>
+                  <pb n="49" facs="tcp:96811:46"/>
+                  <head>To extract the Cube-root in Decimals, or Fractions.</head>
+                  <p>OPerate in the ſame manner, as in Integers, and look how many Fractions you deſire, ſo often put 3 Cyphers be<g ref="char:EOLhyphen"/>hind it; and this wanteth no further declaration, <hi>&amp;c.</hi> Having thus ſhewed the Arithmetick in Decimals, I proceed to ſhew ſome Draughts and Operations with the Compaſſes, which any one may uſe at pleaſure.</p>
+               </div>
+               <div type="section">
+                  <head>How a given Circle is to be divided into equal parts, and the Polygones of all Regular Fi<g ref="char:EOLhyphen"/>gures, neceſſary for Fortification, are to be inſcribed within it.</head>
+                  <p>LEt the given Circle be <hi>A, B, F, E, Numb. VIII. Fig.</hi> 1. through which draw the Diameter <hi>A B;</hi> and where it toucheth the Circumference, as in <hi>A</hi> and <hi>B,</hi> put one foot of the Compaſſes, and make the two Interſections, <hi>C</hi> and <hi>D;</hi> and from the Points, where they cut, draw a ſtreight Line <hi>C D,</hi> falling Perpendicular upon the Diameter <hi>A, B:</hi> theſe two Lines <hi>A, B</hi> and <hi>C, D</hi> divide the Circle into four equally, and <hi>A, E</hi> is a ſide of a Square.</p>
+                  <p>Taking <hi>F</hi> for the Center, and drawing at the diſtance <hi>F, G</hi> an Ark <hi>H, G, I,</hi> and then a right Line from <hi>H</hi> to <hi>I;</hi> where this Ark cutteth the Circumferencc, as <hi>H, I,</hi> this is a ſide of an Equi<g ref="char:EOLhyphen"/>lateral Triangle, which may be inſcribed within this Circle. The half of this Line, as <hi>H, K,</hi> is a Polygone of an Heptagone, and the diſtance <hi>I B</hi> is the ſide of a Dodecagone; Take <hi>K</hi> for the Center, and at the diſtance <hi>A, K</hi> deſcribe the Ark <hi>A, L,</hi> the Line drawn from the Section <hi>L</hi> to <hi>A</hi> is a ſide of a Pentagone, the Line <hi>G, L</hi> is the ſide of a Decagone; <hi>G, N</hi> of an Hexagone; <hi>E</hi> and <hi>B</hi> are the Centers of the Arks <hi>G, M,</hi> which Line divideth the fourth part of the Circumference into two, and <hi>N, B</hi> is the ſide of an Octogone; divide the Ark <hi>H, F, I</hi> into three equal parts, and one third, as <hi>H, O</hi> is the ſide of an Enneagone; from <hi>L</hi> to <hi>P</hi> is the ſide of an Hendecagone; <hi>E, L</hi> is the Polygone of a Figure of 16 ſides.</p>
+               </div>
+               <div type="section">
+                  <pb n="50" facs="tcp:96811:47"/>
+                  <head>Another way to find the Sides of every Regular Figure, that may be inſcribed within a Circle.</head>
+                  <p>THis is done thus; Divide the Circumference into four equal parts, and then one fourth part of the Circle into ſo ma<g ref="char:EOLhyphen"/>ny equal parts, as the Figure ſhould have ſides; and take four of thoſe parts, and that will be the length of the Polygone of ſuch a Figure as you ſeek.</p>
+                  <div type="example">
+                     <head>Example.</head>
+                     <p>THe Circle <hi>Q, P, V, R,</hi> in the Plate <hi>Numb. VIII. Fig.</hi> 2. is firſt divided into four equal parts by the two Diameters <hi>Q, V,</hi> and <hi>P, R;</hi> ¼ part <hi>Q, P</hi> is divided into ten equal parts, four of thoſe parts is the ſide of a Decagone, <hi>viz.</hi> the length <hi>K, P,</hi> which being ſet off ten times about the Circumference, deſcribeth a Regular Decagone; after the ſame manner do with all other Figures, dividing always ¼ of the Circle into ſo many parts, as you deſire ſides; and four of theſe parts being taken with the Compaſſes, make up the ſide. This manner may be alſo proved by Arithmetick.</p>
+                  </div>
+                  <div type="note">
+                     <head>N. B.</head>
+                     <p>In the making of Geometrical Figures, the Compaſſes ought always to be ſet perfectly upon the Lines, and marks made ſoft<g ref="char:EOLhyphen"/>ly with the feet, to do the work with more perfection.</p>
+                     <p>There are many other ways, which we paſs over for brevity ſake.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>To divide a Line with the firſt opening of the Compaſſes, into as many parts as you deſire.</head>
+                  <p>LEt the given Line be <hi>D, E,</hi> which you deſire to divide into ten equal parts; therefore draw an undetermined Line <hi>B, H,</hi> and open the Compaſſes at pleaſure, and with that opening ſet off as many parts upon the Line as you deſire, (as here ten from <hi>B,</hi> to <hi>H;</hi>) ſo the tenth part reacheth to <hi>H;</hi> upon this Line <hi>B, H</hi> make an equilateral Triangle <hi>B, A, H,</hi> and from <hi>A</hi> draw the Lines <hi>AI, AK, AL, AM,</hi> &amp;c. Thus you have by the parts of the
+<pb n="51" facs="tcp:96811:47"/>Line <hi>B, H,</hi> a Triangle, which is divided proportionally: then take with the Compaſſes the given Line <hi>D, E,</hi> and ſet it off from <hi>A</hi> to <hi>G,</hi> and alſo from <hi>A</hi> to <hi>P,</hi> and draw the Line <hi>P, G,</hi> equal to <hi>D, E,</hi> which by the interſecting Lines is divided into 10 equal parts; as alſo the Line <hi>F, G,</hi> if it be required, and ſo with all other Lines whatſoever.</p>
+               </div>
+               <div type="section">
+                  <head>To let fall a Perpendicular upon a given Line.</head>
+                  <p>THe given Line is <hi>G, F,</hi> and upon the point <hi>G</hi> we let fall the Perpendicular <hi>G, H;</hi> therefore ſet one foot of the Com<g ref="char:EOLhyphen"/>paſſes in <hi>G,</hi> and open th'other at pleaſure, as here to <hi>I;</hi> from thence make the Circumference <hi>H, G, F;</hi> and where this cutteth the Line <hi>G, F,</hi> (as in <hi>F</hi>) from thence draw a Line juſt by the Center, till it touch the Circumference in <hi>H,</hi> and from the Point <hi>H</hi> draw the Line <hi>H, G,</hi> which ſtandeth right-angled or Perpendicular to <hi>G, F.</hi> There are many other ways, which I here omit for brevity ſake.</p>
+               </div>
+               <div type="section">
+                  <head>From a given Point in a Line, to raiſe a Perpendicular.</head>
+                  <p>THe given point is <hi>A,</hi> and the Line <hi>B, C,</hi> in <hi>Fig.</hi> 5. Set one foot of the Compaſſes in the point <hi>A,</hi> making with th'other the Ark <hi>B, C;</hi> upon theſe Points ſet one foot of the Compaſſes, opening th'other at pleaſure, as to <hi>D,</hi> and make from theſe Points the interſection of the Arks in <hi>D,</hi> at the diſtance <hi>D, C,</hi> and draw a Line from the interſection by the given point <hi>A,</hi> to the Line <hi>B, C,</hi> which is Perpendicular to <hi>B, G.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To make an Equilateral Triangle.</head>
+                  <p>UPon the Line <hi>B, H,</hi> in <hi>Fig.</hi> 6. ſet one foot of the Compaſ<g ref="char:EOLhyphen"/>ſes in <hi>B,</hi> and with th'other take the diſtance <hi>B, H,</hi> and with that make an Ark about <hi>A;</hi> as alſo out of <hi>H:</hi> where theſe Arks interſect one another, there is the third Point of the Tri<g ref="char:EOLhyphen"/>angle; and draw from thence the Lines <hi>A B,</hi> and <hi>A H,</hi> and ſo the Triangle is made.</p>
+               </div>
+               <div type="section">
+                  <pb n="52" facs="tcp:96811:48"/>
+                  <head>To make a Triangle of three right Lines given, whatever they be, provided that two of them be longer than the third.</head>
+                  <p>THe Lines are <hi>AB, CD, EF;</hi> take with the Compaſſes the length of one of the three, which you would have to be the Baſe, (which is here <hi>A, B</hi>) and mark two Points, one in <hi>H,</hi> and th'other in <hi>L;</hi> from the Point <hi>L</hi> deſcribe the length of the Line <hi>C, D</hi> with an Ark in <hi>K,</hi> and from <hi>H</hi> the length of the Line <hi>E, F,</hi> and cut the former Ark in <hi>K,</hi> and there is the third Point: from <hi>K</hi> draw the Line <hi>K, H,</hi> equal to <hi>E, F; K, L,</hi> equal to <hi>C, D;</hi> and <hi>L, H,</hi> equal to <hi>A, B,</hi> &amp;c.</p>
+               </div>
+               <div type="section">
+                  <head>Three Points being given, and not ſtanding in a right Line, to draw a Circumference, which ſhall paſs through all three.</head>
+                  <p>THe Points are <hi>O, P, Q;</hi> make the equal ſections on both ſides of the Center, as from <hi>P</hi> and alſo from <hi>Q,</hi> which is done in <hi>V;</hi> as likewiſe from <hi>O,</hi> which falleth in 5, Perpendicular upon <hi>Q, P,</hi> and <hi>P, O.</hi> Where theſe touch one another, there is the Center (as is ſeen in <hi>Fig.</hi> 7. <hi>Numb. VIII.</hi>) of the Circular Ark <hi>O, P, Q,</hi> which being drawn, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The ſame manner obſerve in the finding of the Center of a Circular Ark, or a whole Circle.</p>
+               </div>
+               <div type="section">
+                  <head>To divide a given Circle into 360 degrees, and to make an inſtrument from it which Geome<g ref="char:EOLhyphen"/>metricians call a <hi>Theodolit,</hi> or Aſtrolab.</head>
+                  <p>THis Inſtrument is of great uſe in the Mathematicks; for by the ſame all inacceſſible diſtances, heights and depths are meaſured, the uſe of which I ſhall declare in its own place in the following parts, and it is divided thus:</p>
+                  <p>The Circle <hi>A, B, C, D</hi> being firſt divided into four equal parts by the two Diameters <hi>A, B</hi> and <hi>C, D,</hi> take with your Compaſ<g ref="char:EOLhyphen"/>ſes the exact length of the half Diameter; as <hi>A, E</hi> or <hi>E D,</hi> by
+<pb n="53" facs="tcp:96811:48" rendition="simple:additions"/>which the Circle is divided into ſix equal parts, and after the manner following into 12; with this opening of the Compaſ<g ref="char:EOLhyphen"/>ſes, ſet one foot in <hi>C,</hi> and with th'other make upon the Circum<g ref="char:EOLhyphen"/>ference marks on both ſides in <hi>F</hi> and <hi>G,</hi> likewiſe from <hi>D</hi> in <hi>H</hi> and <hi>L, &amp;c.</hi> Thus the Circumference is divided exactly into 12 equal parts. The part <hi>D, A,</hi> or a quarter of a Circle, containeth 90 de<g ref="char:EOLhyphen"/>grees, as a quarter of 360 degrees; <hi>F, C</hi> being a ſixth part, 60 de<g ref="char:EOLhyphen"/>grees; and <hi>D H</hi> as a twelfth part, 30 degrees; then divide a twelfth part, as <hi>D, H</hi> or <hi>D L</hi> into two, as in <hi>O</hi> and <hi>P,</hi> and ſuch a part holdeth 15 degrees; then divide one of theſe parts into 3, and one of them will hold 5 degrees, of which one being exact<g ref="char:EOLhyphen"/>ly divided into 5, one of theſe is a degree, of which 360 make up the whole Circumference of every Circle, whether it be great or ſmall, and are always proportional, <hi>viz.</hi> the leaſt Cir<g ref="char:EOLhyphen"/>cle that can be made, to the greateſt Circle of the Sun, or any other Aſtronomical Circle: For if you draw ſeveral Circles out of one Center, and from the ſame Center ſeveral Semidiameters to the utmoſt Circle, the Arks intercepted in the innermoſt Circles contain as many degrees, as thoſe in the outmoſt, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Each degree containeth 60 Minutes, a Minute 60 Seconds, a Second 60 Thirds, a Third 60 Fourths, and ſo on; and they are written thus, 4.° 5. 6. 7. 8. which is as much, as 4 De<g ref="char:EOLhyphen"/>grees, 5 Min. 6 Seconds, 7 Thirds, 8 Fourths.</p>
+                  <p>How all kind of Ovals may be drawn by the Compaſſes, is to be ſeen by the marks 1, 2, 3, 4, 5, and needeth in my opinion no further declaration, ſeeing the manner of working appear<g ref="char:EOLhyphen"/>eth enough by the Figures. By 6 is an Oval, which can be made by a Cord and 2 or 3 Nails: This manner is of much uſe <hi>in Ar<g ref="char:EOLhyphen"/>chitectura civili,</hi> to make oblique Vaults. By 7 and 8 are ſeen two ſorts of ſpiral Lines, whoſe ſtructure may alſo be perceived by the Figures.</p>
+                  <p>And thus I have ſhewed the principal Draughts with Com<g ref="char:EOLhyphen"/>paſſes, ſerving for Geometrical uſe.</p>
+               </div>
+            </div>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="author_to_bookbinder">
+            <pb facs="tcp:96811:49"/>
+            <head>
+               <hi>For the Bookbinder,</hi> To place the Prints of the Copper-Plates.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Numb.</cell>
+                     <cell>after Fol.</cell>
+                  </row>
+                  <row>
+                     <cell>II.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>I.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>III.</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>IV.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>V.</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>VI.</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>VII.</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>VIII.</cell>
+                     <cell>48</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:96811:49"/>
+         </div>
+      </back>
+   </text>
+</TEI>
